@@ -1,0 +1,315 @@
+{
+  "source": "bps_webapi",
+  "source_no": 36,
+  "source_nama_ramah": "TPT By Province",
+  "source_tabel_db": "usecase_ekonomi.ekonomi_tpt_by_province",
+  "source_url": "https://www.bps.go.id/id/statistics-table/2/NTQzIzI=/tingkat-pengangguran-terbuka--agustus-2025.html",
+  "source_judul_resmi_tabel": "Tingkat Pengangguran Terbuka Menurut Provinsi (Persen), 2026",
+  "api_info": {
+    "var_id": "543",
+    "target_year_from_title": "2026",
+    "selected_th_id": "126",
+    "selected_th_year": "2026",
+    "selected_th_reason": "match_target_year",
+    "available_years": [
+      {
+        "th_id": 126,
+        "th": "2026"
+      },
+      {
+        "th_id": 125,
+        "th": "2025"
+      },
+      {
+        "th_id": 124,
+        "th": "2024"
+      },
+      {
+        "th_id": 123,
+        "th": "2023"
+      },
+      {
+        "th_id": 122,
+        "th": "2022"
+      },
+      {
+        "th_id": 121,
+        "th": "2021"
+      },
+      {
+        "th_id": 120,
+        "th": "2020"
+      },
+      {
+        "th_id": 119,
+        "th": "2019"
+      },
+      {
+        "th_id": 118,
+        "th": "2018"
+      },
+      {
+        "th_id": 117,
+        "th": "2017"
+      }
+    ]
+  },
+  "title_score": 1.0,
+  "chosen_bps_label": "Tingkat Pengangguran Terbuka Menurut Provinsi",
+  "meta": {
+    "var_id": "543",
+    "variabel": "Tingkat Pengangguran Terbuka Menurut Provinsi",
+    "unit": "Persen",
+    "subject": "Tenaga Kerja",
+    "note": "<p>Data 2011-2013 menggunakan Backcast dari Penimbang Proyeksi Komponen                    <br />Data 2018-2020 menggunakan Backcast dari Penimbang berbasis SUPAS 2015                    <br />1986-1998, penghitungan tanpa data Provinsi Timor Timor                    <br />Pada tahun 1995, Sakernas tidak dilaksanakan                    <br />Pada tahun 2000, tanpa Maluku                    <br />Sumber: Survei Angkatan Kerja Nasional (Sakernas)                    <br /><br /><br /></p><p><br /></p><p><br /></p>"
+  },
+  "data": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2026-05-06 15:41:30",
+    "subject": [
+      {
+        "val": 520,
+        "label": "Tenaga Kerja"
+      }
+    ],
+    "var": [
+      {
+        "val": 543,
+        "label": "Tingkat Pengangguran Terbuka Menurut Provinsi",
+        "unit": "Persen",
+        "subj": "Tenaga Kerja",
+        "def": "",
+        "decimal": 2,
+        "note": "<p>Data 2011-2013 menggunakan Backcast dari Penimbang Proyeksi Komponen                    <br />Data 2018-2020 menggunakan Backcast dari Penimbang berbasis SUPAS 2015                    <br />1986-1998, penghitungan tanpa data Provinsi Timor Timor                    <br />Pada tahun 1995, Sakernas tidak dilaksanakan                    <br />Pada tahun 2000, tanpa Maluku                    <br />Sumber: Survei Angkatan Kerja Nasional (Sakernas)                    <br /><br /><br /></p><p><br /></p><p><br /></p>"
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "38 Provinsi",
+    "vervar": [
+      {
+        "val": 1100,
+        "label": "ACEH"
+      },
+      {
+        "val": 1200,
+        "label": "SUMATERA UTARA"
+      },
+      {
+        "val": 1300,
+        "label": "SUMATERA BARAT"
+      },
+      {
+        "val": 1400,
+        "label": "RIAU"
+      },
+      {
+        "val": 1500,
+        "label": "JAMBI"
+      },
+      {
+        "val": 1600,
+        "label": "SUMATERA SELATAN"
+      },
+      {
+        "val": 1700,
+        "label": "BENGKULU"
+      },
+      {
+        "val": 1800,
+        "label": "LAMPUNG"
+      },
+      {
+        "val": 1900,
+        "label": "KEP. BANGKA BELITUNG"
+      },
+      {
+        "val": 2100,
+        "label": "KEP. RIAU"
+      },
+      {
+        "val": 3100,
+        "label": "DKI JAKARTA"
+      },
+      {
+        "val": 3200,
+        "label": "JAWA BARAT"
+      },
+      {
+        "val": 3300,
+        "label": "JAWA TENGAH"
+      },
+      {
+        "val": 3400,
+        "label": "DI YOGYAKARTA"
+      },
+      {
+        "val": 3500,
+        "label": "JAWA TIMUR"
+      },
+      {
+        "val": 3600,
+        "label": "BANTEN"
+      },
+      {
+        "val": 5100,
+        "label": "BALI"
+      },
+      {
+        "val": 5200,
+        "label": "NUSA TENGGARA BARAT"
+      },
+      {
+        "val": 5300,
+        "label": "NUSA TENGGARA TIMUR"
+      },
+      {
+        "val": 6100,
+        "label": "KALIMANTAN BARAT"
+      },
+      {
+        "val": 6200,
+        "label": "KALIMANTAN TENGAH"
+      },
+      {
+        "val": 6300,
+        "label": "KALIMANTAN SELATAN"
+      },
+      {
+        "val": 6400,
+        "label": "KALIMANTAN TIMUR"
+      },
+      {
+        "val": 6500,
+        "label": "KALIMANTAN UTARA"
+      },
+      {
+        "val": 7100,
+        "label": "SULAWESI UTARA"
+      },
+      {
+        "val": 7200,
+        "label": "SULAWESI TENGAH"
+      },
+      {
+        "val": 7300,
+        "label": "SULAWESI SELATAN"
+      },
+      {
+        "val": 7400,
+        "label": "SULAWESI TENGGARA"
+      },
+      {
+        "val": 7500,
+        "label": "GORONTALO"
+      },
+      {
+        "val": 7600,
+        "label": "SULAWESI BARAT"
+      },
+      {
+        "val": 8100,
+        "label": "MALUKU"
+      },
+      {
+        "val": 8200,
+        "label": "MALUKU UTARA"
+      },
+      {
+        "val": 9100,
+        "label": "PAPUA BARAT"
+      },
+      {
+        "val": 9200,
+        "label": "PAPUA BARAT DAYA"
+      },
+      {
+        "val": 9400,
+        "label": "PAPUA"
+      },
+      {
+        "val": 9500,
+        "label": "PAPUA SELATAN"
+      },
+      {
+        "val": 9600,
+        "label": "PAPUA TENGAH"
+      },
+      {
+        "val": 9700,
+        "label": "PAPUA PEGUNUNGAN"
+      },
+      {
+        "val": 9999,
+        "label": "INDONESIA"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 126,
+        "label": "2026"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 189,
+        "label": "Februari"
+      },
+      {
+        "val": 190,
+        "label": "Agustus"
+      },
+      {
+        "val": 191,
+        "label": "Tahunan"
+      }
+    ],
+    "datacontent": {
+      "74005430126189": 3.25,
+      "97005430126189": 1.7,
+      "15005430126189": 3.99,
+      "36005430126189": 6.59,
+      "16005430126189": 3.59,
+      "21005430126189": 6.87,
+      "11005430126189": 5.88,
+      "31005430126189": 6.03,
+      "63005430126189": 3.8,
+      "82005430126189": 4.46,
+      "92005430126189": 6.41,
+      "75005430126189": 3.17,
+      "18005430126189": 3.95,
+      "99995430126189": 4.68,
+      "61005430126189": 4.57,
+      "64005430126189": 5.27,
+      "17005430126189": 3.23,
+      "32005430126189": 6.64,
+      "34005430126189": 3.05,
+      "65005430126189": 3.9,
+      "14005430126189": 4.09,
+      "72005430126189": 2.95,
+      "94005430126189": 7.02,
+      "35005430126189": 3.55,
+      "13005430126189": 5.51,
+      "95005430126189": 5.25,
+      "52005430126189": 2.99,
+      "71005430126189": 5.75,
+      "91005430126189": 4.1,
+      "76005430126189": 2.93,
+      "62005430126189": 3.44,
+      "53005430126189": 3.16,
+      "73005430126189": 4.95,
+      "96005430126189": 3.83,
+      "81005430126189": 5.8,
+      "33005430126189": 4.24,
+      "19005430126189": 4.15,
+      "51005430126189": 1.59,
+      "12005430126189": 5.01
+    },
+    "related": []
+  }
+}

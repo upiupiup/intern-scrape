@@ -1,0 +1,19 @@
+﻿periode,tahun,bulan_angka,bulan,inflasi_yoy_persen,kategori,jenis_perubahan,periode_asal,satuan,data_source
+2020-12,2020,12,Desember,1.68,UMUM,Tahun ke Tahun / Year on Year,annual_end_year,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf
+2021-12,2021,12,Desember,1.87,UMUM,Tahun ke Tahun / Year on Year,annual_end_year,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf
+2022-12,2022,12,Desember,5.51,UMUM,Tahun ke Tahun / Year on Year,annual_end_year,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf
+2023-12,2023,12,Desember,2.61,UMUM,Tahun ke Tahun / Year on Year,annual_end_year,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf
+2024-12,2024,12,Desember,1.57,UMUM,Tahun ke Tahun / Year on Year,annual_end_year,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf
+2025-05,2025,5,Mei,1.6,UMUM,Tahun ke Tahun / Year on Year,monthly,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf
+2025-06,2025,6,Juni,1.87,UMUM,Tahun ke Tahun / Year on Year,monthly,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf
+2025-07,2025,7,Juli,2.37,UMUM,Tahun ke Tahun / Year on Year,monthly,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf
+2025-08,2025,8,Agustus,2.31,UMUM,Tahun ke Tahun / Year on Year,monthly,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf
+2025-09,2025,9,September,2.65,UMUM,Tahun ke Tahun / Year on Year,monthly,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf
+2025-10,2025,10,Oktober,2.86,UMUM,Tahun ke Tahun / Year on Year,monthly,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf
+2025-11,2025,11,November,2.72,UMUM,Tahun ke Tahun / Year on Year,monthly,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf
+2025-12,2025,12,Desember,2.92,UMUM,Tahun ke Tahun / Year on Year,monthly,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf
+2026-01,2026,1,Januari,3.55,UMUM,Tahun ke Tahun / Year on Year,monthly,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf
+2026-02,2026,2,Februari,4.76,UMUM,Tahun ke Tahun / Year on Year,monthly,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf
+2026-03,2026,3,Maret,3.48,UMUM,Tahun ke Tahun / Year on Year,monthly,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf
+2026-04,2026,4,April,2.42,UMUM,Tahun ke Tahun / Year on Year,monthly,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf
+2026-05,2026,5,Mei,3.08,UMUM,Tahun ke Tahun / Year on Year,monthly,persen,https://www.bi.go.id/SEKI/tabel/TABEL8_1.pdf

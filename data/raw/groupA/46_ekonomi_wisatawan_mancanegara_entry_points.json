@@ -1,0 +1,142 @@
+{
+  "source": "bps_webapi",
+  "source_no": 46,
+  "source_nama_ramah": "Wisatawan Mancanegara Entry Points",
+  "source_tabel_db": "usecase_ekonomi.ekonomi_wisatawan_mancanegara_entry_points",
+  "source_url": "https://www.bps.go.id/id/statistics-table/2/MTAxNyMy/jumlah-kedatangan-wisatawan-mancanegara-ke-indonesia-menurut-pintu-masuk--orang-.html",
+  "source_judul_resmi_tabel": "Jumlah Kedatangan Wisatawan Mancanegara ke Indonesia Menurut Pintu Masuk (Orang), 2025",
+  "api_info": {
+    "var_id": "1017",
+    "target_year_from_title": "2025",
+    "selected_th_id": "125",
+    "selected_th_year": "2025",
+    "selected_th_reason": "match_target_year",
+    "available_years": [
+      {
+        "th_id": 125,
+        "th": "2025"
+      },
+      {
+        "th_id": 124,
+        "th": "2024"
+      },
+      {
+        "th_id": 113,
+        "th": "2013"
+      },
+      {
+        "th_id": 112,
+        "th": "2012"
+      },
+      {
+        "th_id": 111,
+        "th": "2011"
+      },
+      {
+        "th_id": 110,
+        "th": "2010"
+      },
+      {
+        "th_id": 109,
+        "th": "2009"
+      },
+      {
+        "th_id": 108,
+        "th": "2008"
+      },
+      {
+        "th_id": 107,
+        "th": "2007"
+      },
+      {
+        "th_id": 106,
+        "th": "2006"
+      }
+    ]
+  },
+  "title_score": 1.0,
+  "chosen_bps_label": "Jumlah Kedatangan Wisatawan Mancanegara ke Indonesia Menurut Pintu Masuk",
+  "meta": {
+    "var_id": "1017",
+    "variabel": "Jumlah Kedatangan Wisatawan Mancanegara ke Indonesia Menurut Pintu Masuk",
+    "unit": "Orang",
+    "subject": "Pariwisata",
+    "note": "Sumber:  Direktorat Jenderal Imigrasi, Kementerian Imigrasi dan Pemasyarakatan, dan Mobile Positioning Data (MPD)\n"
+  },
+  "data": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2026-05-25 12:47:39",
+    "subject": [
+      {
+        "val": 561,
+        "label": "Pariwisata"
+      }
+    ],
+    "var": [
+      {
+        "val": 1017,
+        "label": "Jumlah Kedatangan Wisatawan Mancanegara ke Indonesia Menurut Pintu Masuk",
+        "unit": "Orang",
+        "subj": "Pariwisata",
+        "def": "",
+        "decimal": 0,
+        "note": "Sumber:  Direktorat Jenderal Imigrasi, Kementerian Imigrasi dan Pemasyarakatan, dan Mobile Positioning Data (MPD)\n"
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "Bandara Utama (Wisata)",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "Jumlah"
+      },
+      {
+        "val": 2,
+        "label": "Bandara Lainnya"
+      },
+      {
+        "val": 3,
+        "label": "Batam"
+      },
+      {
+        "val": 4,
+        "label": "Kualanamu"
+      },
+      {
+        "val": 5,
+        "label": "Ngurah Rai"
+      },
+      {
+        "val": 6,
+        "label": "Soekarno Hatta"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 125,
+        "label": "2025"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 0,
+        "label": "Tahun"
+      }
+    ],
+    "datacontent": {
+      "5101701250": 6907585,
+      "3101701250": 1593757,
+      "4101701250": 289656,
+      "2101701250": 3834810,
+      "6101701250": 2760838,
+      "1101701250": 15386646
+    },
+    "related": []
+  }
+}

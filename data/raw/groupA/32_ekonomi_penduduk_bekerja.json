@@ -1,0 +1,136 @@
+{
+  "source": "bps_webapi",
+  "source_no": 32,
+  "source_nama_ramah": "Penduduk Bekerja",
+  "source_tabel_db": "usecase_ekonomi.ekonomi_penduduk_bekerja",
+  "source_url": "https://www.bps.go.id/id/statistics-table/2/MTk1MyMy/jumlah-dan-persentase-penduduk-bekerja-dan-pengangguran.html",
+  "source_judul_resmi_tabel": "Jumlah dan Persentase Penduduk Bekerja dan Pengangguran, 2026",
+  "api_info": {
+    "var_id": "1953",
+    "target_year_from_title": "2026",
+    "selected_th_id": "126",
+    "selected_th_year": "2026",
+    "selected_th_reason": "match_target_year",
+    "available_years": [
+      {
+        "th_id": 126,
+        "th": "2026"
+      },
+      {
+        "th_id": 125,
+        "th": "2025"
+      },
+      {
+        "th_id": 124,
+        "th": "2024"
+      },
+      {
+        "th_id": 123,
+        "th": "2023"
+      },
+      {
+        "th_id": 122,
+        "th": "2022"
+      },
+      {
+        "th_id": 121,
+        "th": "2021"
+      },
+      {
+        "th_id": 120,
+        "th": "2020"
+      },
+      {
+        "th_id": 119,
+        "th": "2019"
+      },
+      {
+        "th_id": 118,
+        "th": "2018"
+      },
+      {
+        "th_id": 117,
+        "th": "2017"
+      }
+    ]
+  },
+  "title_score": 1.0,
+  "chosen_bps_label": "Jumlah dan Persentase Penduduk Bekerja dan Pengangguran",
+  "meta": {
+    "var_id": "1953",
+    "variabel": "Jumlah dan Persentase Penduduk Bekerja dan Pengangguran",
+    "unit": "",
+    "subject": "Tenaga Kerja",
+    "note": "<p>\nTahun 2011-2013 merupakan hasil backcasting yang dibobot dengan proyeksi penduduk 2010-2035\nSejak 2014 perkiraan itu ditimbang dengan proyeksi penduduk 2010-2035\nTahun 2018-2019 merupakan hasil backcasting yang dibobot dengan proyeksi penduduk 2015-2045 (SUPAS 2015)\nTahun 2020 perkiraan dibobot dengan proyeksi penduduk 2015-2045 (SUPAS 2015)\n</p>\n\n<br /><br /><a href=\"https://www.bps.go.id/id/statistics-table/2/MjU2MCMy/jumlah-dan-persentase-penduduk-bekerja-dan-pengangguran--triwulanan---.html\">\n   Lihat Kelanjutan Tabel\n</a>"
+  },
+  "data": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2026-05-06 15:41:57",
+    "subject": [
+      {
+        "val": 520,
+        "label": "Tenaga Kerja"
+      }
+    ],
+    "var": [
+      {
+        "val": 1953,
+        "label": "Jumlah dan Persentase Penduduk Bekerja dan Pengangguran",
+        "unit": "",
+        "subj": "Tenaga Kerja",
+        "def": "",
+        "decimal": 2,
+        "note": "<p>\nTahun 2011-2013 merupakan hasil backcasting yang dibobot dengan proyeksi penduduk 2010-2035\nSejak 2014 perkiraan itu ditimbang dengan proyeksi penduduk 2010-2035\nTahun 2018-2019 merupakan hasil backcasting yang dibobot dengan proyeksi penduduk 2015-2045 (SUPAS 2015)\nTahun 2020 perkiraan dibobot dengan proyeksi penduduk 2015-2045 (SUPAS 2015)\n</p>\n\n<br /><br /><a href=\"https://www.bps.go.id/id/statistics-table/2/MjU2MCMy/jumlah-dan-persentase-penduduk-bekerja-dan-pengangguran--triwulanan---.html\">\n   Lihat Kelanjutan Tabel\n</a>"
+      }
+    ],
+    "turvar": [
+      {
+        "val": 1664,
+        "label": "Penduduk Bekerja"
+      },
+      {
+        "val": 1665,
+        "label": "Pengangguran"
+      }
+    ],
+    "labelvervar": "Penduduk Bekerja dan Pengangguran",
+    "vervar": [
+      {
+        "val": 1,
+        "label": "Persentase (%)"
+      },
+      {
+        "val": 2,
+        "label": "Jumlah (Ribu orang)"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 126,
+        "label": "2026"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 189,
+        "label": "Februari"
+      },
+      {
+        "val": 190,
+        "label": "Agustus"
+      },
+      {
+        "val": 191,
+        "label": "Tahunan"
+      }
+    ],
+    "datacontent": {
+      "119531664126189": 95.32,
+      "119531665126189": 4.68,
+      "219531664126189": 147667.63,
+      "219531665126189": 7243.61
+    },
+    "related": []
+  }
+}

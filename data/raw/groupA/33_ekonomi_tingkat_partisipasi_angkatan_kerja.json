@@ -1,0 +1,330 @@
+{
+  "source": "bps_webapi",
+  "source_no": 33,
+  "source_nama_ramah": "Tingkat Partisipasi",
+  "source_tabel_db": "usecase_ekonomi.ekonomi_tingkat_partisipasi_angkatan_kerja",
+  "source_url": "https://www.bps.go.id/id/statistics-table/2/MjM5NiMy/persentase-angkatan-kerja-terhadap-penduduk-usia-kerja--tpak--menurut-provinsi--persen-.html",
+  "source_judul_resmi_tabel": "Persentase Angkatan Kerja Terhadap Penduduk Usia Kerja (TPAK) menurut Provinsi (Persen), 2025",
+  "api_info": {
+    "var_id": "2396",
+    "target_year_from_title": "2025",
+    "selected_th_id": "125",
+    "selected_th_year": "2025",
+    "selected_th_reason": "match_target_year",
+    "available_years": [
+      {
+        "th_id": 125,
+        "th": "2025"
+      },
+      {
+        "th_id": 124,
+        "th": "2024"
+      },
+      {
+        "th_id": 123,
+        "th": "2023"
+      },
+      {
+        "th_id": 122,
+        "th": "2022"
+      },
+      {
+        "th_id": 121,
+        "th": "2021"
+      }
+    ]
+  },
+  "title_score": 1.0,
+  "chosen_bps_label": "Persentase Angkatan Kerja Terhadap Penduduk Usia Kerja (TPAK) menurut Provinsi",
+  "meta": {
+    "var_id": "2396",
+    "variabel": "Persentase Angkatan Kerja Terhadap Penduduk Usia Kerja (TPAK) menurut Provinsi",
+    "unit": "Persen",
+    "subject": "Tenaga Kerja",
+    "note": "Sumber: Survei Angkatan Kerja Nasional (Sakernas) Februari dan Agustus 2025"
+  },
+  "data": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2025-12-24 10:24:40",
+    "subject": [
+      {
+        "val": 520,
+        "label": "Tenaga Kerja"
+      }
+    ],
+    "var": [
+      {
+        "val": 2396,
+        "label": "Persentase Angkatan Kerja Terhadap Penduduk Usia Kerja (TPAK) menurut Provinsi",
+        "unit": "Persen",
+        "subj": "Tenaga Kerja",
+        "def": "",
+        "decimal": 2,
+        "note": "Sumber: Survei Angkatan Kerja Nasional (Sakernas) Februari dan Agustus 2025"
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "38 Provinsi",
+    "vervar": [
+      {
+        "val": 1100,
+        "label": "ACEH"
+      },
+      {
+        "val": 1200,
+        "label": "SUMATERA UTARA"
+      },
+      {
+        "val": 1300,
+        "label": "SUMATERA BARAT"
+      },
+      {
+        "val": 1400,
+        "label": "RIAU"
+      },
+      {
+        "val": 1500,
+        "label": "JAMBI"
+      },
+      {
+        "val": 1600,
+        "label": "SUMATERA SELATAN"
+      },
+      {
+        "val": 1700,
+        "label": "BENGKULU"
+      },
+      {
+        "val": 1800,
+        "label": "LAMPUNG"
+      },
+      {
+        "val": 1900,
+        "label": "KEP. BANGKA BELITUNG"
+      },
+      {
+        "val": 2100,
+        "label": "KEP. RIAU"
+      },
+      {
+        "val": 3100,
+        "label": "DKI JAKARTA"
+      },
+      {
+        "val": 3200,
+        "label": "JAWA BARAT"
+      },
+      {
+        "val": 3300,
+        "label": "JAWA TENGAH"
+      },
+      {
+        "val": 3400,
+        "label": "DI YOGYAKARTA"
+      },
+      {
+        "val": 3500,
+        "label": "JAWA TIMUR"
+      },
+      {
+        "val": 3600,
+        "label": "BANTEN"
+      },
+      {
+        "val": 5100,
+        "label": "BALI"
+      },
+      {
+        "val": 5200,
+        "label": "NUSA TENGGARA BARAT"
+      },
+      {
+        "val": 5300,
+        "label": "NUSA TENGGARA TIMUR"
+      },
+      {
+        "val": 6100,
+        "label": "KALIMANTAN BARAT"
+      },
+      {
+        "val": 6200,
+        "label": "KALIMANTAN TENGAH"
+      },
+      {
+        "val": 6300,
+        "label": "KALIMANTAN SELATAN"
+      },
+      {
+        "val": 6400,
+        "label": "KALIMANTAN TIMUR"
+      },
+      {
+        "val": 6500,
+        "label": "KALIMANTAN UTARA"
+      },
+      {
+        "val": 7100,
+        "label": "SULAWESI UTARA"
+      },
+      {
+        "val": 7200,
+        "label": "SULAWESI TENGAH"
+      },
+      {
+        "val": 7300,
+        "label": "SULAWESI SELATAN"
+      },
+      {
+        "val": 7400,
+        "label": "SULAWESI TENGGARA"
+      },
+      {
+        "val": 7500,
+        "label": "GORONTALO"
+      },
+      {
+        "val": 7600,
+        "label": "SULAWESI BARAT"
+      },
+      {
+        "val": 8100,
+        "label": "MALUKU"
+      },
+      {
+        "val": 8200,
+        "label": "MALUKU UTARA"
+      },
+      {
+        "val": 9100,
+        "label": "PAPUA BARAT"
+      },
+      {
+        "val": 9200,
+        "label": "PAPUA BARAT DAYA"
+      },
+      {
+        "val": 9400,
+        "label": "PAPUA"
+      },
+      {
+        "val": 9500,
+        "label": "PAPUA SELATAN"
+      },
+      {
+        "val": 9600,
+        "label": "PAPUA TENGAH"
+      },
+      {
+        "val": 9700,
+        "label": "PAPUA PEGUNUNGAN"
+      },
+      {
+        "val": 9999,
+        "label": "INDONESIA"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 125,
+        "label": "2025"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 254,
+        "label": "Februari "
+      },
+      {
+        "val": 255,
+        "label": "Agustus"
+      }
+    ],
+    "datacontent": {
+      "110023960125255": 65.32,
+      "530023960125255": 75.55,
+      "190023960125255": 69.38,
+      "630023960125254": 70.41,
+      "140023960125255": 66.55,
+      "940023960125254": 70.38,
+      "999923960125255": 70.59,
+      "999923960125254": 70.6,
+      "640023960125255": 66.58,
+      "110023960125254": 65.63,
+      "360023960125255": 64.66,
+      "330023960125255": 74.36,
+      "160023960125255": 69.88,
+      "640023960125254": 66.4,
+      "730023960125255": 67.65,
+      "750023960125255": 69.29,
+      "740023960125254": 69.77,
+      "130023960125254": 70.95,
+      "140023960125254": 64.68,
+      "820023960125255": 69.57,
+      "750023960125254": 67.52,
+      "950023960125254": 68.15,
+      "610023960125254": 67.64,
+      "330023960125254": 73.17,
+      "810023960125254": 67.56,
+      "340023960125254": 73.73,
+      "530023960125254": 75.81,
+      "180023960125255": 70.44,
+      "910023960125254": 71.45,
+      "180023960125254": 71.16,
+      "510023960125255": 77.31,
+      "210023960125254": 66.84,
+      "910023960125255": 69.55,
+      "340023960125255": 74.74,
+      "630023960125255": 69.93,
+      "960023960125255": 73.89,
+      "150023960125255": 68.37,
+      "130023960125255": 71.34,
+      "950023960125255": 67.37,
+      "620023960125255": 68.4,
+      "760023960125254": 71.81,
+      "170023960125254": 71.5,
+      "510023960125254": 77.4,
+      "610023960125255": 70.9,
+      "190023960125254": 67.67,
+      "810023960125255": 66.66,
+      "960023960125254": 78.97,
+      "360023960125254": 65.82,
+      "650023960125254": 69.19,
+      "920023960125254": 68.14,
+      "970023960125254": 88.27,
+      "710023960125254": 65.3,
+      "650023960125255": 69.55,
+      "350023960125254": 74.25,
+      "150023960125254": 67.11,
+      "320023960125254": 68.91,
+      "920023960125255": 68.1,
+      "310023960125255": 64.75,
+      "710023960125255": 67.21,
+      "760023960125255": 74.25,
+      "120023960125254": 70.13,
+      "170023960125255": 71.78,
+      "210023960125255": 68.23,
+      "520023960125254": 76.5,
+      "310023960125254": 65.4,
+      "720023960125255": 72.4,
+      "940023960125255": 63.98,
+      "820023960125254": 68.99,
+      "720023960125254": 70.51,
+      "350023960125255": 73.98,
+      "120023960125255": 72.29,
+      "740023960125255": 71.67,
+      "520023960125255": 76.11,
+      "620023960125254": 69.9,
+      "320023960125255": 66.99,
+      "970023960125255": 90.66,
+      "730023960125254": 65.99,
+      "160023960125254": 70.56
+    },
+    "related": []
+  }
+}

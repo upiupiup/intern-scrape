@@ -1,0 +1,288 @@
+{
+  "source": "bps_webapi",
+  "source_no": 17,
+  "source_nama_ramah": "Kontribusi PDB",
+  "source_tabel_db": "usecase_ekonomi.ekonomi_kontribusi_investasi_pdb_kuartal",
+  "source_url": "https://www.bps.go.id/assets/statistics-table/2/MTk1NiMy/-seri-2010--2--pdb-triwulanan-atas-dasar-harga-konstan-menurut-pengeluaran.html",
+  "source_judul_resmi_tabel": "[Seri 2010] 2. PDB Triwulanan Atas Dasar Harga Konstan menurut Pengeluaran (Milyar Rupiah), 2026",
+  "api_info": {
+    "var_id": "1956",
+    "target_year_from_title": "2026",
+    "selected_th_id": "126",
+    "selected_th_year": "2026",
+    "selected_th_reason": "match_target_year",
+    "available_years": [
+      {
+        "th_id": 126,
+        "th": "2026"
+      },
+      {
+        "th_id": 125,
+        "th": "2025"
+      },
+      {
+        "th_id": 124,
+        "th": "2024"
+      },
+      {
+        "th_id": 123,
+        "th": "2023"
+      },
+      {
+        "th_id": 122,
+        "th": "2022"
+      },
+      {
+        "th_id": 121,
+        "th": "2021"
+      },
+      {
+        "th_id": 120,
+        "th": "2020"
+      },
+      {
+        "th_id": 119,
+        "th": "2019"
+      },
+      {
+        "th_id": 118,
+        "th": "2018"
+      },
+      {
+        "th_id": 117,
+        "th": "2017"
+      }
+    ]
+  },
+  "title_score": 1.0,
+  "chosen_bps_label": "[Seri 2010] 2. PDB Triwulanan Atas Dasar Harga Konstan menurut Pengeluaran",
+  "meta": {
+    "var_id": "1956",
+    "variabel": "[Seri 2010] 2. PDB Triwulanan Atas Dasar Harga Konstan menurut Pengeluaran",
+    "unit": "Milyar Rupiah",
+    "subject": "Produk Domestik Bruto (Pengeluaran)",
+    "note": "<p>2024: Angka sementara <br />\n2025: Angka sangat sementara <br />\n2026: Angka sangat sangat sementara <br /></p>"
+  },
+  "data": {
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2026-05-05 12:48:54",
+    "subject": [
+      {
+        "val": 531,
+        "label": "Neraca Ekonomi"
+      }
+    ],
+    "var": [
+      {
+        "val": 1956,
+        "label": "[Seri 2010] 2. PDB Triwulanan Atas Dasar Harga Konstan menurut Pengeluaran",
+        "unit": "Milyar Rupiah",
+        "subj": "Produk Domestik Bruto (Pengeluaran)",
+        "def": "",
+        "decimal": 2,
+        "note": "<p>2024: Angka sementara <br />\n2025: Angka sangat sementara <br />\n2026: Angka sangat sangat sementara <br /></p>"
+      }
+    ],
+    "turvar": [
+      {
+        "val": "0",
+        "label": "Tidak ada"
+      }
+    ],
+    "labelvervar": "PDB Pengeluaran (Seri 2010)",
+    "vervar": [
+      {
+        "val": 100,
+        "label": "1. Pengeluaran Konsumsi Rumahtangga"
+      },
+      {
+        "val": 110,
+        "label": "a. Makanan dan Minuman, Selain Restoran"
+      },
+      {
+        "val": 120,
+        "label": "b. Pakaian, Alas Kaki dan Jasa Perawatannya"
+      },
+      {
+        "val": 130,
+        "label": "c. Perumahan dan Perlengkapan Rumahtangga"
+      },
+      {
+        "val": 140,
+        "label": "d. Kesehatan dan Pendidikan"
+      },
+      {
+        "val": 150,
+        "label": "e. Transportasi dan Komunikasi"
+      },
+      {
+        "val": 160,
+        "label": "f. Restoran dan Hotel"
+      },
+      {
+        "val": 170,
+        "label": "g. Lainnya"
+      },
+      {
+        "val": 200,
+        "label": "2. Pengeluaran Konsumsi LNPRT"
+      },
+      {
+        "val": 300,
+        "label": "3. Pengeluaran Konsumsi Pemerintah"
+      },
+      {
+        "val": 310,
+        "label": "a. Konsumsi Kolektif"
+      },
+      {
+        "val": 320,
+        "label": "b. Konsumsi Individu"
+      },
+      {
+        "val": 400,
+        "label": "4. Pembentukan Modal Tetap Domestik Bruto"
+      },
+      {
+        "val": 410,
+        "label": "a. Bangunan"
+      },
+      {
+        "val": 420,
+        "label": "b. Mesin dan Perlengkapan"
+      },
+      {
+        "val": 430,
+        "label": "c. Kendaraan"
+      },
+      {
+        "val": 440,
+        "label": "d. Peralatan Lainnya"
+      },
+      {
+        "val": 450,
+        "label": "e. CBR"
+      },
+      {
+        "val": 460,
+        "label": "f. Produk Kekayaan Intelektual"
+      },
+      {
+        "val": 500,
+        "label": "5. Perubahan Inventori"
+      },
+      {
+        "val": 600,
+        "label": "6. Ekspor Barang dan Jasa"
+      },
+      {
+        "val": 610,
+        "label": "a. Barang"
+      },
+      {
+        "val": 611,
+        "label": "a.1. Barang Non-migas"
+      },
+      {
+        "val": 612,
+        "label": "a.b. Barang migas"
+      },
+      {
+        "val": 620,
+        "label": "b. Jasa"
+      },
+      {
+        "val": 700,
+        "label": "7. Dikurangi Impor Barang dan Jasa"
+      },
+      {
+        "val": 710,
+        "label": "a. Barang"
+      },
+      {
+        "val": 711,
+        "label": "a.1. Barang Non-migas"
+      },
+      {
+        "val": 712,
+        "label": "a.b. Barang migas"
+      },
+      {
+        "val": 720,
+        "label": "b. Jasa"
+      },
+      {
+        "val": 790,
+        "label": "Diskrepansi Statistik"
+      },
+      {
+        "val": 800,
+        "label": "8. PRODUK DOMESTIK BRUTO"
+      }
+    ],
+    "tahun": [
+      {
+        "val": 126,
+        "label": "2026"
+      }
+    ],
+    "turtahun": [
+      {
+        "val": 31,
+        "label": "Triwulan I"
+      },
+      {
+        "val": 32,
+        "label": "Triwulan II"
+      },
+      {
+        "val": 33,
+        "label": "Triwulan III"
+      },
+      {
+        "val": 34,
+        "label": "Triwulan IV"
+      },
+      {
+        "val": 35,
+        "label": "Tahunan"
+      }
+    ],
+    "datacontent": {
+      "3101956012631": 128487.87,
+      "7201956012631": 86667.92,
+      "3201956012631": 100734.95,
+      "1701956012631": 81630.66,
+      "4001956012631": 1037666.92,
+      "1201956012631": 67732.33,
+      "1001956012631": 1838230.08,
+      "1401956012631": 129001.83,
+      "6201956012631": 69855.31,
+      "4101956012631": 760455.33,
+      "1501956012631": 468712,
+      "4501956012631": 41315.8,
+      "6101956012631": 713046.3,
+      "2001956012631": 48130.97,
+      "6001956012631": 782901.6,
+      "4401956012631": 12304.41,
+      "1601956012631": 177533.2,
+      "3001956012631": 229222.82,
+      "4601956012631": 22247.87,
+      "7901956012631": 73498.24,
+      "5001956012631": 103957.64,
+      "4301956012631": 62675.35,
+      "6111956012631": 662688.47,
+      "7101956012631": 579257.55,
+      "8001956012631": 3447682.8,
+      "1101956012631": 662232.8,
+      "7111956012631": 496447.37,
+      "6121956012631": 50357.82,
+      "1301956012631": 251387.26,
+      "4201956012631": 138668.16,
+      "7001956012631": 665925.47,
+      "7121956012631": 82810.18
+    },
+    "related": []
+  }
+}
