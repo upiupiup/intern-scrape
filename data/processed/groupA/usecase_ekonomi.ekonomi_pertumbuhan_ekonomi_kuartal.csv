@@ -1,0 +1,13 @@
+id,tahun,kuartal,growth_pct,forecast,forecast_lower,forecast_upper,data_source
+1,2024,1,5.11,,,,https://www.bps.go.id/id/statistics-table/2/MTk1NiMy/-seri-2010--2--pdb-triwulanan-atas-dasar-harga-konstan-menurut-pengeluaran--milyar-rupiah-.html
+2,2024,2,5.05,,,,https://www.bps.go.id/id/statistics-table/2/MTk1NiMy/-seri-2010--2--pdb-triwulanan-atas-dasar-harga-konstan-menurut-pengeluaran--milyar-rupiah-.html
+3,2024,3,4.95,,,,https://www.bps.go.id/id/statistics-table/2/MTk1NiMy/-seri-2010--2--pdb-triwulanan-atas-dasar-harga-konstan-menurut-pengeluaran--milyar-rupiah-.html
+4,2024,4,5.02,,,,https://www.bps.go.id/id/statistics-table/2/MTk1NiMy/-seri-2010--2--pdb-triwulanan-atas-dasar-harga-konstan-menurut-pengeluaran--milyar-rupiah-.html
+5,2025,1,4.87,,,,https://www.bps.go.id/id/statistics-table/2/MTk1NiMy/-seri-2010--2--pdb-triwulanan-atas-dasar-harga-konstan-menurut-pengeluaran--milyar-rupiah-.html
+6,2025,2,5.12,,,,https://www.bps.go.id/id/statistics-table/2/MTk1NiMy/-seri-2010--2--pdb-triwulanan-atas-dasar-harga-konstan-menurut-pengeluaran--milyar-rupiah-.html
+7,2025,3,5.04,,,,https://www.bps.go.id/id/statistics-table/2/MTk1NiMy/-seri-2010--2--pdb-triwulanan-atas-dasar-harga-konstan-menurut-pengeluaran--milyar-rupiah-.html
+8,2025,4,5.39,,,,https://www.bps.go.id/id/statistics-table/2/MTk1NiMy/-seri-2010--2--pdb-triwulanan-atas-dasar-harga-konstan-menurut-pengeluaran--milyar-rupiah-.html
+9,2026,1,5.61,,,,https://www.bps.go.id/id/statistics-table/2/MTk1NiMy/-seri-2010--2--pdb-triwulanan-atas-dasar-harga-konstan-menurut-pengeluaran--milyar-rupiah-.html
+10,2026,2,,5.59,3.53,7.66,"Forecast internal ARIMA(1,1,1) (statsmodels, Python)"
+11,2026,3,,5.6,2.82,8.37,"Forecast internal ARIMA(1,1,1) (statsmodels, Python)"
+12,2026,4,,5.6,2.23,8.96,"Forecast internal ARIMA(1,1,1) (statsmodels, Python)"

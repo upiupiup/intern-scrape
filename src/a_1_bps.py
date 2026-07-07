@@ -155,17 +155,51 @@ def parse_quarter_label(label: str) -> int | None:
 def fetch_th_list(
     var_id: str, api_key: str, domain: str, timeout: int
 ) -> dict[str, str]:
-    th_resp = bps_get(
-        {"model": "th", "lang": "ind", "domain": domain, "var": var_id},
-        api_key,
-        timeout,
-    )
-    th_rows = parse_th_rows(th_resp)
-    return {
-        str(r.get("th")): str(r.get("th_id"))
-        for r in th_rows
-        if r.get("th") is not None
-    }
+    result = {}
+    page = 1
+
+    while True:
+        th_resp = bps_get(
+            {
+                "model": "th",
+                "lang": "ind",
+                "domain": domain,
+                "var": var_id,
+                "page": page,
+            },
+            api_key,
+            timeout,
+        )
+
+        th_rows = parse_th_rows(th_resp)
+        if not th_rows:
+            break
+
+        for r in th_rows:
+            if r.get("th") is not None and r.get("th_id") is not None:
+                result[str(r.get("th"))] = str(r.get("th_id"))
+
+        # Cek info pagination dari response BPS
+        data = th_resp.get("data")
+        paging = (
+            data[0]
+            if isinstance(data, list) and len(data) > 0 and isinstance(data[0], dict)
+            else {}
+        )
+
+        total_pages = int(
+            paging.get("pages")
+            or paging.get("total_pages")
+            or paging.get("page_total")
+            or page
+        )
+
+        if page >= total_pages:
+            break
+
+        page += 1
+
+    return result
 
 
 def fetch_year_quarter_values(
