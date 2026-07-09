@@ -1,0 +1,306 @@
+﻿periode,inflasi_yoy_persen,_edisi_sumber,_asal,_data_source_verified
+200001,0.28,APRIL 2011,sheet historis 'Th2000 - 2003',False
+200002,-0.89,APRIL 2011,sheet historis 'Th2000 - 2003',False
+200003,-1.17,APRIL 2011,sheet historis 'Th2000 - 2003',False
+200004,0.07,APRIL 2011,sheet historis 'Th2000 - 2003',False
+200005,1.2,APRIL 2011,sheet historis 'Th2000 - 2003',False
+200006,2.04,APRIL 2011,sheet historis 'Th2000 - 2003',False
+200007,66.75,APRIL 2011,sheet historis 'Th 2000 - 2003',False
+200008,89.55,APRIL 2011,sheet historis 'Th 2000 - 2003',False
+200009,99.6,APRIL 2011,sheet historis 'Th 2000 - 2003',False
+200010,117.3,APRIL 2011,sheet historis 'Th 2000 - 2003',False
+200011,136.8,APRIL 2011,sheet historis 'Th 2000 - 2003',False
+200012,140.25,APRIL 2011,sheet historis 'Th 2000 - 2003',False
+200101,8.28,APRIL 2011,sheet historis 'Th2000 - 2003',False
+200102,9.14,APRIL 2011,sheet historis 'Th2000 - 2003',False
+200103,10.62,APRIL 2011,sheet historis 'Th2000 - 2003',False
+200104,10.51,APRIL 2011,sheet historis 'Th2000 - 2003',False
+200105,10.82,APRIL 2011,sheet historis 'Th2000 - 2003',False
+200106,12.11,APRIL 2011,sheet historis 'Th2000 - 2003',False
+200107,195.6,APRIL 2011,sheet historis 'Th 2000 - 2003',False
+200108,183.45,APRIL 2011,sheet historis 'Th 2000 - 2003',False
+200109,195.15,APRIL 2011,sheet historis 'Th 2000 - 2003',False
+200110,187.05,APRIL 2011,sheet historis 'Th 2000 - 2003',False
+200111,193.65,APRIL 2011,sheet historis 'Th 2000 - 2003',False
+200112,188.25,APRIL 2011,sheet historis 'Th 2000 - 2003',False
+200301,8.74,MEI 2026,sheet historis 'Th 2002-2010',False
+200302,7.34,MEI 2026,sheet historis 'Th 2002-2010',False
+200303,7.12,MEI 2026,sheet historis 'Th 2002-2010',False
+200304,7.54,MEI 2026,sheet historis 'Th 2002-2010',False
+200305,6.91,MEI 2026,sheet historis 'Th 2002-2010',False
+200306,6.62,MEI 2026,sheet historis 'Th 2002-2010',False
+200307,5.79,MEI 2026,sheet historis 'Th 2002-2010',False
+200308,6.38,MEI 2026,sheet historis 'Th 2002-2010',False
+200309,6.2,MEI 2026,sheet historis 'Th 2002-2010',False
+200310,6.22,MEI 2026,sheet historis 'Th 2002-2010',False
+200311,5.33,MEI 2026,sheet historis 'Th 2002-2010',False
+200312,5.06,MEI 2026,sheet historis 'Th 2002-2010',False
+200401,4.82,MEI 2026,sheet historis 'Th 2002-2010',False
+200402,4.6,MEI 2026,sheet historis 'Th 2002-2010',False
+200403,5.11,MEI 2026,sheet historis 'Th 2002-2010',False
+200404,5.92,MEI 2026,sheet historis 'Th 2002-2010',False
+200405,6.47,MEI 2026,sheet historis 'Th 2002-2010',False
+200406,6.83,MEI 2026,sheet historis 'Th 2002-2010',False
+200407,7.2,MEI 2026,sheet historis 'Th 2002-2010',False
+200408,6.67,MEI 2026,sheet historis 'Th 2002-2010',False
+200409,6.27,MEI 2026,sheet historis 'Th 2002-2010',False
+200410,6.22,MEI 2026,sheet historis 'Th 2002-2010',False
+200411,6.18,MEI 2026,sheet historis 'Th 2002-2010',False
+200412,6.4,MEI 2026,sheet historis 'Th 2002-2010',False
+200501,7.32,MEI 2026,sheet historis 'Th 2002-2010',False
+200502,7.15,MEI 2026,sheet historis 'Th 2002-2010',False
+200503,8.81,MEI 2026,sheet historis 'Th 2002-2010',False
+200504,8.12,MEI 2026,sheet historis 'Th 2002-2010',False
+200505,7.4,MEI 2026,sheet historis 'Th 2002-2010',False
+200506,7.42,MEI 2026,sheet historis 'Th 2002-2010',False
+200507,7.84,MEI 2026,sheet historis 'Th 2002-2010',False
+200508,8.34,MEI 2026,sheet historis 'Th 2002-2010',False
+200509,9.06,MEI 2026,sheet historis 'Th 2002-2010',False
+200510,17.89,MEI 2026,sheet historis 'Th 2002-2010',False
+200511,18.38,MEI 2026,sheet historis 'Th 2002-2010',False
+200512,17.11,MEI 2026,sheet historis 'Th 2002-2010',False
+200601,17.03,MEI 2026,sheet historis 'Th 2002-2010',False
+200602,17.92,MEI 2026,sheet historis 'Th 2002-2010',False
+200603,15.74,MEI 2026,sheet historis 'Th 2002-2010',False
+200604,15.4,MEI 2026,sheet historis 'Th 2002-2010',False
+200605,15.6,MEI 2026,sheet historis 'Th 2002-2010',False
+200606,15.53,MEI 2026,sheet historis 'Th 2002-2010',False
+200607,15.15,MEI 2026,sheet historis 'Th 2002-2010',False
+200608,14.9,MEI 2026,sheet historis 'Th 2002-2010',False
+200609,14.55,MEI 2026,sheet historis 'Th 2002-2010',False
+200610,6.29,MEI 2026,sheet historis 'Th 2002-2010',False
+200611,5.27,MEI 2026,sheet historis 'Th 2002-2010',False
+200612,6.6,MEI 2026,sheet historis 'Th 2002-2010',False
+200701,6.26,MEI 2026,sheet historis 'Th 2002-2010',False
+200702,6.3,MEI 2026,sheet historis 'Th 2002-2010',False
+200703,6.52,MEI 2026,sheet historis 'Th 2002-2010',False
+200704,6.3,MEI 2026,sheet historis 'Th 2002-2010',False
+200705,6.01,MEI 2026,sheet historis 'Th 2002-2010',False
+200706,5.78,MEI 2026,sheet historis 'Th 2002-2010',False
+200707,6.06,MEI 2026,sheet historis 'Th 2002-2010',False
+200708,6.51,MEI 2026,sheet historis 'Th 2002-2010',False
+200709,6.95,MEI 2026,sheet historis 'Th 2002-2010',False
+200710,6.88,MEI 2026,sheet historis 'Th 2002-2010',False
+200711,6.71,MEI 2026,sheet historis 'Th 2002-2010',False
+200712,6.59,MEI 2026,sheet historis 'Th 2002-2010',False
+200801,7.36,MEI 2026,sheet historis 'Th 2002-2010',False
+200802,7.4,MEI 2026,sheet historis 'Th 2002-2010',False
+200803,8.17,MEI 2026,sheet historis 'Th 2002-2010',False
+200804,8.96,MEI 2026,sheet historis 'Th 2002-2010',False
+200805,10.38,MEI 2026,sheet historis 'Th 2002-2010',False
+200806,11.03,MEI 2026,sheet historis 'Th 2002-2010',False
+200807,11.9,MEI 2026,sheet historis 'Th 2002-2010',False
+200808,11.85,MEI 2026,sheet historis 'Th 2002-2010',False
+200809,12.14,MEI 2026,sheet historis 'Th 2002-2010',False
+200810,11.77,MEI 2026,sheet historis 'Th 2002-2010',False
+200811,11.68,MEI 2026,sheet historis 'Th 2002-2010',False
+200812,11.06,MEI 2026,sheet historis 'Th 2002-2010',False
+200901,9.17,MEI 2026,sheet historis 'Th 2002-2010',False
+200902,8.6,FEBRUARI 2011,pdf,False
+200903,7.92,MARET 2011,pdf,False
+200904,7.31,MARET 2011,pdf,False
+200905,6.04,MEI 2011,pdf,False
+200906,3.65,JUNI 2011,pdf,False
+200907,2.71,JULI 2011,pdf,False
+200908,2.75,AGUSTUS 2011,pdf,False
+200909,2.83,SEPTEMBER 2011,pdf,False
+200910,2.57,OKTOBER 2011,pdf,False
+200911,2.41,NOVEMBER 2011,pdf,False
+200912,2.78,DESEMBER 2011,pdf,False
+201001,3.72,DESEMBER 2019,sheet utama (8.1),False
+201002,3.81,DESEMBER 2019,sheet utama (8.1),False
+201003,3.43,DESEMBER 2019,sheet utama (8.1),False
+201004,3.91,DESEMBER 2019,sheet utama (8.1),False
+201005,4.16,DESEMBER 2019,sheet utama (8.1),False
+201006,5.05,DESEMBER 2019,sheet utama (8.1),False
+201007,6.22,DESEMBER 2019,sheet utama (8.1),False
+201008,6.44,DESEMBER 2019,sheet utama (8.1),False
+201009,5.8,DESEMBER 2019,sheet utama (8.1),False
+201010,5.67,DESEMBER 2019,sheet utama (8.1),False
+201011,6.33,DESEMBER 2019,sheet utama (8.1),False
+201012,6.96,DESEMBER 2019,sheet utama (8.1),False
+201101,7.02,DESEMBER 2019,sheet utama (8.1),False
+201102,6.84,DESEMBER 2019,sheet utama (8.1),False
+201103,6.65,DESEMBER 2019,sheet utama (8.1),False
+201104,6.16,DESEMBER 2019,sheet utama (8.1),False
+201105,5.98,DESEMBER 2019,sheet utama (8.1),False
+201106,5.54,DESEMBER 2019,sheet utama (8.1),False
+201107,4.61,DESEMBER 2019,sheet utama (8.1),False
+201108,4.79,DESEMBER 2019,sheet utama (8.1),False
+201109,4.61,DESEMBER 2019,sheet utama (8.1),False
+201110,4.42,DESEMBER 2019,sheet utama (8.1),False
+201111,4.15,DESEMBER 2019,sheet utama (8.1),False
+201112,3.79,DESEMBER 2019,sheet utama (8.1),False
+201201,3.65,DESEMBER 2019,sheet utama (8.1),False
+201202,3.56,DESEMBER 2019,sheet utama (8.1),False
+201203,3.97,DESEMBER 2019,sheet utama (8.1),False
+201204,4.5,DESEMBER 2019,sheet utama (8.1),False
+201205,4.45,DESEMBER 2019,sheet utama (8.1),False
+201206,4.53,DESEMBER 2019,sheet utama (8.1),False
+201207,4.56,DESEMBER 2019,sheet utama (8.1),False
+201208,4.58,DESEMBER 2019,sheet utama (8.1),False
+201209,4.31,DESEMBER 2019,sheet utama (8.1),False
+201210,4.61,DESEMBER 2019,sheet utama (8.1),False
+201211,4.32,DESEMBER 2019,sheet utama (8.1),False
+201212,4.3,DESEMBER 2019,sheet utama (8.1),False
+201301,4.57,DESEMBER 2019,sheet utama (8.1),False
+201302,5.31,DESEMBER 2019,sheet utama (8.1),False
+201303,5.9,DESEMBER 2019,sheet utama (8.1),False
+201304,5.57,DESEMBER 2019,sheet utama (8.1),False
+201305,5.47,DESEMBER 2019,sheet utama (8.1),False
+201306,5.9,DESEMBER 2019,sheet utama (8.1),False
+201307,8.61,DESEMBER 2019,sheet utama (8.1),False
+201308,8.79,DESEMBER 2019,sheet utama (8.1),False
+201309,8.4,DESEMBER 2019,sheet utama (8.1),False
+201310,8.32,DESEMBER 2019,sheet utama (8.1),False
+201311,8.37,DESEMBER 2019,sheet utama (8.1),False
+201312,8.38,DESEMBER 2019,sheet utama (8.1),False
+201401,8.22,DESEMBER 2019,sheet utama (8.1),False
+201402,7.75,DESEMBER 2019,sheet utama (8.1),False
+201403,7.32,DESEMBER 2019,sheet utama (8.1),False
+201404,7.25,DESEMBER 2019,sheet utama (8.1),False
+201405,7.32,DESEMBER 2019,sheet utama (8.1),False
+201406,6.7,DESEMBER 2019,sheet utama (8.1),False
+201407,4.53,DESEMBER 2019,sheet utama (8.1),False
+201408,3.99,DESEMBER 2019,sheet utama (8.1),False
+201409,4.53,DESEMBER 2019,sheet utama (8.1),False
+201410,4.83,DESEMBER 2019,sheet utama (8.1),False
+201411,6.23,DESEMBER 2019,sheet utama (8.1),False
+201412,8.36,DESEMBER 2019,sheet utama (8.1),False
+201501,6.96,DESEMBER 2019,sheet utama (8.1),False
+201502,6.29,DESEMBER 2019,sheet utama (8.1),False
+201503,6.38,DESEMBER 2019,sheet utama (8.1),False
+201504,6.79,DESEMBER 2019,sheet utama (8.1),False
+201505,7.15,DESEMBER 2019,sheet utama (8.1),False
+201506,7.26,DESEMBER 2019,sheet utama (8.1),False
+201507,7.26,DESEMBER 2019,sheet utama (8.1),False
+201508,7.18,DESEMBER 2019,sheet utama (8.1),False
+201509,6.83,DESEMBER 2019,sheet utama (8.1),False
+201510,6.25,DESEMBER 2019,sheet utama (8.1),False
+201511,4.89,DESEMBER 2019,sheet utama (8.1),False
+201512,3.35,DESEMBER 2019,sheet utama (8.1),False
+201601,4.14,DESEMBER 2019,sheet utama (8.1),False
+201602,4.42,DESEMBER 2019,sheet utama (8.1),False
+201603,4.45,DESEMBER 2019,sheet utama (8.1),False
+201604,3.6,DESEMBER 2019,sheet utama (8.1),False
+201605,3.33,DESEMBER 2019,sheet utama (8.1),False
+201606,3.45,DESEMBER 2019,sheet utama (8.1),False
+201607,3.21,DESEMBER 2019,sheet utama (8.1),False
+201608,2.79,DESEMBER 2019,sheet utama (8.1),False
+201609,3.07,DESEMBER 2019,sheet utama (8.1),False
+201610,3.31,DESEMBER 2019,sheet utama (8.1),False
+201611,3.58,DESEMBER 2019,sheet utama (8.1),False
+201612,3.02,DESEMBER 2019,sheet utama (8.1),False
+201701,3.49,DESEMBER 2019,sheet utama (8.1),False
+201702,3.83,DESEMBER 2019,sheet utama (8.1),False
+201703,3.61,DESEMBER 2019,sheet utama (8.1),False
+201704,4.17,DESEMBER 2019,sheet utama (8.1),False
+201705,4.33,DESEMBER 2019,sheet utama (8.1),False
+201706,4.37,DESEMBER 2019,sheet utama (8.1),False
+201707,3.88,DESEMBER 2019,sheet utama (8.1),False
+201708,3.82,DESEMBER 2019,sheet utama (8.1),False
+201709,3.72,DESEMBER 2019,sheet utama (8.1),False
+201710,3.58,DESEMBER 2019,sheet utama (8.1),False
+201711,3.3,DESEMBER 2019,sheet utama (8.1),False
+201712,3.61,DESEMBER 2019,sheet utama (8.1),False
+201801,3.25,DESEMBER 2019,sheet utama (8.1),False
+201802,3.18,DESEMBER 2019,sheet utama (8.1),False
+201803,3.4,DESEMBER 2019,sheet utama (8.1),False
+201804,3.41,DESEMBER 2019,sheet utama (8.1),False
+201805,3.23,DESEMBER 2019,sheet utama (8.1),False
+201806,3.12,DESEMBER 2019,sheet utama (8.1),False
+201807,3.18,DESEMBER 2019,sheet utama (8.1),False
+201808,3.2,DESEMBER 2019,sheet utama (8.1),False
+201809,2.88,DESEMBER 2019,sheet utama (8.1),False
+201810,3.16,DESEMBER 2019,sheet utama (8.1),False
+201811,3.23,DESEMBER 2019,sheet utama (8.1),False
+201812,3.13,DESEMBER 2019,sheet utama (8.1),False
+201901,2.82,DESEMBER 2019,sheet utama (8.1),False
+201902,2.57,DESEMBER 2019,sheet utama (8.1),False
+201903,2.48,DESEMBER 2019,sheet utama (8.1),False
+201904,2.83,DESEMBER 2019,sheet utama (8.1),False
+201905,3.32,DESEMBER 2019,sheet utama (8.1),False
+201906,3.28,DESEMBER 2019,sheet utama (8.1),False
+201907,3.32,DESEMBER 2019,sheet utama (8.1),False
+201908,3.49,DESEMBER 2019,sheet utama (8.1),False
+201909,3.39,DESEMBER 2019,sheet utama (8.1),False
+201910,3.13,DESEMBER 2019,sheet utama (8.1),False
+201911,3.0,DESEMBER 2019,sheet utama (8.1),False
+201912,2.72,DESEMBER 2019,sheet utama (8.1),False
+202001,2.676944,MEI 2026,sheet utama (8.1),False
+202002,2.98,MEI 2026,sheet utama (8.1),False
+202003,2.96,MEI 2026,sheet utama (8.1),False
+202004,2.6746350544,MEI 2026,sheet utama (8.1),False
+202005,2.19,MEI 2026,sheet utama (8.1),False
+202006,1.96,MEI 2026,sheet utama (8.1),False
+202007,1.54,MEI 2026,sheet utama (8.1),False
+202008,1.32,MEI 2026,sheet utama (8.1),False
+202009,1.42,MEI 2026,sheet utama (8.1),False
+202010,1.44,MEI 2026,sheet utama (8.1),False
+202011,1.59,MEI 2026,sheet utama (8.1),False
+202012,1.68,MEI 2026,sheet utama (8.1),False
+202101,1.55,MEI 2026,sheet utama (8.1),False
+202102,1.38,MEI 2026,sheet utama (8.1),False
+202103,1.37,MEI 2026,sheet utama (8.1),False
+202104,1.42,MEI 2026,sheet utama (8.1),False
+202105,1.68,MEI 2026,sheet utama (8.1),False
+202106,1.33,MEI 2026,sheet utama (8.1),False
+202107,1.52,MEI 2026,sheet utama (8.1),False
+202108,1.59,MEI 2026,sheet utama (8.1),False
+202109,1.6,MEI 2026,sheet utama (8.1),False
+202110,1.66,MEI 2026,sheet utama (8.1),False
+202111,1.75,MEI 2026,sheet utama (8.1),False
+202112,1.87,MEI 2026,sheet utama (8.1),False
+202201,2.18,MEI 2026,sheet utama (8.1),False
+202202,2.06,MEI 2026,sheet utama (8.1),False
+202203,2.64,MEI 2026,sheet utama (8.1),False
+202204,3.47,MEI 2026,sheet utama (8.1),False
+202205,3.55,MEI 2026,sheet utama (8.1),False
+202206,4.35,MEI 2026,sheet utama (8.1),False
+202207,4.94,MEI 2026,sheet utama (8.1),False
+202208,4.69,MEI 2026,sheet utama (8.1),False
+202209,5.95,MEI 2026,sheet utama (8.1),False
+202210,5.71,MEI 2026,sheet utama (8.1),False
+202211,5.42,MEI 2026,sheet utama (8.1),False
+202212,5.51,MEI 2026,sheet utama (8.1),False
+202301,5.28,MEI 2026,sheet utama (8.1),False
+202302,5.47,MEI 2026,sheet utama (8.1),False
+202303,4.97,MEI 2026,sheet utama (8.1),False
+202304,4.33,MEI 2026,sheet utama (8.1),False
+202305,4.0,MEI 2026,sheet utama (8.1),False
+202306,3.52,MEI 2026,sheet utama (8.1),False
+202307,3.08,MEI 2026,sheet utama (8.1),False
+202308,3.27,MEI 2026,sheet utama (8.1),False
+202309,2.28,MEI 2026,sheet utama (8.1),False
+202310,2.56,MEI 2026,sheet utama (8.1),False
+202311,2.86,MEI 2026,sheet utama (8.1),False
+202312,2.61,MEI 2026,sheet utama (8.1),False
+202401,2.57,MEI 2026,sheet utama (8.1),False
+202402,2.75,MEI 2026,sheet utama (8.1),False
+202403,3.05,MEI 2026,sheet utama (8.1),False
+202404,3.0,MEI 2026,sheet utama (8.1),False
+202405,2.84,MEI 2026,sheet utama (8.1),False
+202406,2.51,MEI 2026,sheet utama (8.1),False
+202407,2.13,MEI 2026,sheet utama (8.1),False
+202408,2.12,MEI 2026,sheet utama (8.1),False
+202409,1.84,MEI 2026,sheet utama (8.1),False
+202410,1.71,MEI 2026,sheet utama (8.1),False
+202411,1.55,MEI 2026,sheet utama (8.1),False
+202412,1.57,MEI 2026,sheet utama (8.1),False
+202501,0.76,MEI 2026,sheet utama (8.1),False
+202502,-0.09,MEI 2026,sheet utama (8.1),False
+202503,1.03,MEI 2026,sheet utama (8.1),False
+202504,1.95,MEI 2026,sheet utama (8.1),False
+202505,1.6,MEI 2026,sheet utama (8.1),False
+202506,1.87,MEI 2026,sheet utama (8.1),False
+202507,2.37,MEI 2026,sheet utama (8.1),False
+202508,2.31,MEI 2026,sheet utama (8.1),False
+202509,2.65,MEI 2026,sheet utama (8.1),False
+202510,2.86,MEI 2026,sheet utama (8.1),False
+202511,2.72,MEI 2026,sheet utama (8.1),False
+202512,2.92,MEI 2026,sheet utama (8.1),False
+202601,3.55,MEI 2026,sheet utama (8.1),False
+202602,4.76,MEI 2026,sheet utama (8.1),False
+202603,3.48,MEI 2026,sheet utama (8.1),False
+202604,2.42,MEI 2026,sheet utama (8.1),False
+202605,3.08,MEI 2026,sheet utama (8.1),False

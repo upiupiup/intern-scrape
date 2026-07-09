@@ -1,0 +1,204 @@
+﻿tahun,bulan,file,ext,status,n_titik_bulan_terbaca,detail,timestamp
+2009,JULI,data\raw\groupD\seki_downloads\2009\TABEL8_1_JULI_2009.pdf,pdf,failed,0,tidak ada baris 'Tahun ke Tahun' / 'Year on Year' ditemukan di PDF ini,2026-07-09T09:32:43
+2009,AGUSTUS,data\raw\groupD\seki_downloads\2009\TABEL8_1_AGUSTUS_2009.pdf,pdf,failed,0,tidak ada baris 'Tahun ke Tahun' / 'Year on Year' ditemukan di PDF ini,2026-07-09T09:32:43
+2009,SEPTEMBER,data\raw\groupD\seki_downloads\2009\TABEL8_1_SEPTEMBER_2009.pdf,pdf,failed,0,tidak ada baris 'Tahun ke Tahun' / 'Year on Year' ditemukan di PDF ini,2026-07-09T09:32:44
+2009,OKTOBER,data\raw\groupD\seki_downloads\2009\TABEL8_1_OKTOBER_2009.pdf,pdf,failed,0,tidak ada baris 'Tahun ke Tahun' / 'Year on Year' ditemukan di PDF ini,2026-07-09T09:32:45
+2009,NOVEMBER,data\raw\groupD\seki_downloads\2009\TABEL8_1_NOVEMBER_2009.pdf,pdf,failed,0,tidak ada baris 'Tahun ke Tahun' / 'Year on Year' ditemukan di PDF ini,2026-07-09T09:32:46
+2009,DESEMBER,data\raw\groupD\seki_downloads\2009\TABEL8_1_DESEMBER_2009.xls,xls,failed,0,sheet utama 'pola81': tidak ada label 'UMUM',2026-07-09T09:32:46
+2010,JANUARI,data\raw\groupD\seki_downloads\2010\TABEL8_1_JANUARI_2010.xls,xls,failed,0,sheet utama 'pola81': tidak ada label 'UMUM',2026-07-09T09:32:46
+2010,FEBRUARI,data\raw\groupD\seki_downloads\2010\TABEL8_1_FEBRUARI_2010.xls,xls,failed,0,sheet utama 'pola81': tidak ada label 'UMUM',2026-07-09T09:32:46
+2010,MARET,data\raw\groupD\seki_downloads\2010\TABEL8_1_MARET_2010.xls,xls,failed,0,sheet utama 'pola81': tidak ada label 'UMUM',2026-07-09T09:32:46
+2010,APRIL,data\raw\groupD\seki_downloads\2010\TABEL8_1_APRIL_2010.xls,xls,failed,0,sheet utama 'pola81': tidak ada label 'UMUM',2026-07-09T09:32:46
+2010,MEI,data\raw\groupD\seki_downloads\2010\TABEL8_1_MEI_2010.xls,xls,failed,0,sheet utama 'pola81': tidak ada label 'UMUM',2026-07-09T09:32:46
+2010,JUNI,data\raw\groupD\seki_downloads\2010\TABEL8_1_JUNI_2010.xls,xls,failed,0,sheet utama 'pola81': tidak ada label 'UMUM',2026-07-09T09:32:46
+2010,JULI,data\raw\groupD\seki_downloads\2010\TABEL8_1_JULI_2010.xls,xls,failed,0,sheet utama 'pola81': tidak ada label 'UMUM',2026-07-09T09:32:46
+2010,AGUSTUS,data\raw\groupD\seki_downloads\2010\TABEL8_1_AGUSTUS_2010.xls,xls,failed,0,sheet utama 'pola81': tidak ada label 'UMUM',2026-07-09T09:32:46
+2010,SEPTEMBER,data\raw\groupD\seki_downloads\2010\TABEL8_1_SEPTEMBER_2010.xls,xls,failed,0,sheet utama 'pola81': tidak ada label 'UMUM',2026-07-09T09:32:46
+2010,OKTOBER,data\raw\groupD\seki_downloads\2010\TABEL8_1_OKTOBER_2010.xls,xls,failed,0,sheet utama 'pola81': tidak ada label 'UMUM',2026-07-09T09:32:46
+2010,NOVEMBER,data\raw\groupD\seki_downloads\2010\TABEL8_1_NOVEMBER_2010.pdf,pdf,failed,0,tidak ada baris 'Tahun ke Tahun' / 'Year on Year' ditemukan di PDF ini,2026-07-09T09:32:47
+2010,DESEMBER,data\raw\groupD\seki_downloads\2010\TABEL8_1_DESEMBER_2010.pdf,pdf,failed,0,tidak ada baris 'Tahun ke Tahun' / 'Year on Year' ditemukan di PDF ini,2026-07-09T09:32:48
+2011,JANUARI,data\raw\groupD\seki_downloads\2011\TABEL8_1_JANUARI_2011.pdf,pdf,failed,0,tidak ada baris 'Tahun ke Tahun' / 'Year on Year' ditemukan di PDF ini,2026-07-09T09:32:49
+2011,FEBRUARI,data\raw\groupD\seki_downloads\2011\TABEL8_1_FEBRUARI_2011.pdf,pdf,ok,25,,2026-07-09T09:32:49
+2011,MARET,data\raw\groupD\seki_downloads\2011\TABEL8_1_MARET_2011.pdf,pdf,ok,25,,2026-07-09T09:32:50
+2011,APRIL,data\raw\groupD\seki_downloads\2011\TABEL8_1_APRIL_2011.xls,xls,ok,184,,2026-07-09T09:32:50
+2011,MEI,data\raw\groupD\seki_downloads\2011\TABEL8_1_MEI_2011.pdf,pdf,ok,25,,2026-07-09T09:32:50
+2011,JUNI,data\raw\groupD\seki_downloads\2011\TABEL8_1_JUNI_2011.pdf,pdf,ok,25,,2026-07-09T09:32:51
+2011,JULI,data\raw\groupD\seki_downloads\2011\TABEL8_1_JULI_2011.pdf,pdf,ok,25,,2026-07-09T09:32:51
+2011,AGUSTUS,data\raw\groupD\seki_downloads\2011\TABEL8_1_AGUSTUS_2011.pdf,pdf,ok,25,,2026-07-09T09:32:51
+2011,SEPTEMBER,data\raw\groupD\seki_downloads\2011\TABEL8_1_SEPTEMBER_2011.pdf,pdf,ok,25,,2026-07-09T09:32:52
+2011,OKTOBER,data\raw\groupD\seki_downloads\2011\TABEL8_1_OKTOBER_2011.pdf,pdf,ok,25,,2026-07-09T09:32:52
+2011,NOVEMBER,data\raw\groupD\seki_downloads\2011\TABEL8_1_NOVEMBER_2011.pdf,pdf,ok,25,,2026-07-09T09:32:53
+2011,DESEMBER,data\raw\groupD\seki_downloads\2011\TABEL8_1_DESEMBER_2011.pdf,pdf,ok,25,,2026-07-09T09:32:53
+2012,JANUARI,data\raw\groupD\seki_downloads\2012\TABEL8_1_JANUARI_2012.pdf,pdf,ok,25,,2026-07-09T09:32:54
+2012,FEBRUARI,data\raw\groupD\seki_downloads\2012\TABEL8_1_FEBRUARI_2012.pdf,pdf,ok,25,,2026-07-09T09:32:54
+2012,MARET,data\raw\groupD\seki_downloads\2012\TABEL8_1_MARET_2012.pdf,pdf,ok,25,,2026-07-09T09:32:54
+2012,APRIL,data\raw\groupD\seki_downloads\2012\TABEL8_1_APRIL_2012.pdf,pdf,ok,25,,2026-07-09T09:32:55
+2012,MEI,data\raw\groupD\seki_downloads\2012\TABEL8_1_MEI_2012.pdf,pdf,ok,25,,2026-07-09T09:32:55
+2012,JUNI,data\raw\groupD\seki_downloads\2012\TABEL8_1_JUNI_2012.pdf,pdf,ok,25,,2026-07-09T09:32:55
+2012,JULI,data\raw\groupD\seki_downloads\2012\TABEL8_1_JULI_2012.pdf,pdf,ok,25,,2026-07-09T09:32:56
+2012,AGUSTUS,data\raw\groupD\seki_downloads\2012\TABEL8_1_AGUSTUS_2012.pdf,pdf,ok,25,,2026-07-09T09:32:56
+2012,SEPTEMBER,data\raw\groupD\seki_downloads\2012\TABEL8_1_SEPTEMBER_2012.pdf,pdf,ok,25,,2026-07-09T09:32:57
+2012,OKTOBER,data\raw\groupD\seki_downloads\2012\TABEL8_1_OKTOBER_2012.pdf,pdf,ok,25,,2026-07-09T09:32:57
+2012,NOVEMBER,data\raw\groupD\seki_downloads\2012\TABEL8_1_NOVEMBER_2012.pdf,pdf,ok,25,,2026-07-09T09:32:58
+2012,DESEMBER,data\raw\groupD\seki_downloads\2012\TABEL8_1_DESEMBER_2012.pdf,pdf,ok,25,,2026-07-09T09:32:58
+2013,JANUARI,data\raw\groupD\seki_downloads\2013\TABEL8_1_JANUARI_2013.pdf,pdf,ok,25,,2026-07-09T09:32:59
+2013,FEBRUARI,data\raw\groupD\seki_downloads\2013\TABEL8_1_FEBRUARI_2013.pdf,pdf,ok,25,,2026-07-09T09:32:59
+2013,MARET,data\raw\groupD\seki_downloads\2013\TABEL8_1_MARET_2013.pdf,pdf,ok,25,,2026-07-09T09:33:00
+2013,APRIL,data\raw\groupD\seki_downloads\2013\TABEL8_1_APRIL_2013.pdf,pdf,ok,25,,2026-07-09T09:33:00
+2013,MEI,data\raw\groupD\seki_downloads\2013\TABEL8_1_MEI_2013.pdf,pdf,ok,25,,2026-07-09T09:33:00
+2013,JUNI,data\raw\groupD\seki_downloads\2013\TABEL8_1_JUNI_2013.pdf,pdf,ok,25,,2026-07-09T09:33:01
+2013,JULI,data\raw\groupD\seki_downloads\2013\TABEL8_1_JULI_2013.pdf,pdf,ok,25,,2026-07-09T09:33:01
+2013,AGUSTUS,data\raw\groupD\seki_downloads\2013\TABEL8_1_AGUSTUS_2013.pdf,pdf,ok,25,,2026-07-09T09:33:02
+2013,SEPTEMBER,data\raw\groupD\seki_downloads\2013\TABEL8_1_SEPTEMBER_2013.pdf,pdf,ok,25,,2026-07-09T09:33:02
+2013,OKTOBER,data\raw\groupD\seki_downloads\2013\TABEL8_1_OKTOBER_2013.pdf,pdf,ok,25,,2026-07-09T09:33:02
+2013,NOVEMBER,data\raw\groupD\seki_downloads\2013\TABEL8_1_NOVEMBER_2013.pdf,pdf,ok,25,,2026-07-09T09:33:03
+2013,DESEMBER,data\raw\groupD\seki_downloads\2013\TABEL8_1_DESEMBER_2013.pdf,pdf,ok,25,,2026-07-09T09:33:03
+2014,JANUARI,data\raw\groupD\seki_downloads\2014\TABEL8_1_JANUARI_2014.pdf,pdf,ok,25,,2026-07-09T09:33:03
+2014,FEBRUARI,data\raw\groupD\seki_downloads\2014\TABEL8_1_FEBRUARI_2014.pdf,pdf,ok,25,,2026-07-09T09:33:04
+2014,MARET,data\raw\groupD\seki_downloads\2014\TABEL8_1_MARET_2014.pdf,pdf,ok,25,,2026-07-09T09:33:04
+2014,APRIL,data\raw\groupD\seki_downloads\2014\TABEL8_1_APRIL_2014.pdf,pdf,ok,25,,2026-07-09T09:33:05
+2014,MEI,data\raw\groupD\seki_downloads\2014\TABEL8_1_MEI_2014.pdf,pdf,ok,25,,2026-07-09T09:33:05
+2014,JUNI,data\raw\groupD\seki_downloads\2014\TABEL8_1_JUNI_2014.pdf,pdf,ok,25,,2026-07-09T09:33:05
+2014,JULI,data\raw\groupD\seki_downloads\2014\TABEL8_1_JULI_2014.pdf,pdf,ok,25,,2026-07-09T09:33:06
+2014,AGUSTUS,data\raw\groupD\seki_downloads\2014\TABEL8_1_AGUSTUS_2014.pdf,pdf,ok,25,,2026-07-09T09:33:06
+2014,SEPTEMBER,data\raw\groupD\seki_downloads\2014\TABEL8_1_SEPTEMBER_2014.pdf,pdf,ok,25,,2026-07-09T09:33:07
+2014,OKTOBER,data\raw\groupD\seki_downloads\2014\TABEL8_1_OKTOBER_2014.pdf,pdf,ok,25,,2026-07-09T09:33:07
+2014,NOVEMBER,data\raw\groupD\seki_downloads\2014\TABEL8_1_NOVEMBER_2014.pdf,pdf,partial,24,"halaman 2: 1 dari 15 kolom bulan tidak punya nilai (tanda '-' di tabel asli, atau tidak terbaca) - kolom lain tetap dipakai apa adanya",2026-07-09T09:33:07
+2014,DESEMBER,data\raw\groupD\seki_downloads\2014\TABEL8_1_DESEMBER_2014.pdf,pdf,ok,25,,2026-07-09T09:33:08
+2015,JANUARI,data\raw\groupD\seki_downloads\2015\TABEL8_1_JANUARI_2015.pdf,pdf,ok,25,,2026-07-09T09:33:08
+2015,FEBRUARI,data\raw\groupD\seki_downloads\2015\TABEL8_1_FEBRUARI_2015.pdf,pdf,ok,25,,2026-07-09T09:33:09
+2015,MARET,data\raw\groupD\seki_downloads\2015\TABEL8_1_MARET_2015.pdf,pdf,ok,25,,2026-07-09T09:33:09
+2015,APRIL,data\raw\groupD\seki_downloads\2015\TABEL8_1_APRIL_2015.pdf,pdf,ok,25,,2026-07-09T09:33:10
+2015,MEI,data\raw\groupD\seki_downloads\2015\TABEL8_1_MEI_2015.pdf,pdf,ok,25,,2026-07-09T09:33:10
+2015,JUNI,data\raw\groupD\seki_downloads\2015\TABEL8_1_JUNI_2015.pdf,pdf,ok,25,,2026-07-09T09:33:10
+2015,JULI,data\raw\groupD\seki_downloads\2015\TABEL8_1_JULI_2015.pdf,pdf,ok,25,,2026-07-09T09:33:11
+2015,AGUSTUS,data\raw\groupD\seki_downloads\2015\TABEL8_1_AGUSTUS_2015.pdf,pdf,ok,25,,2026-07-09T09:33:11
+2015,SEPTEMBER,data\raw\groupD\seki_downloads\2015\TABEL8_1_SEPTEMBER_2015.pdf,pdf,ok,25,,2026-07-09T09:33:12
+2015,OKTOBER,data\raw\groupD\seki_downloads\2015\TABEL8_1_OKTOBER_2015.pdf,pdf,ok,25,,2026-07-09T09:33:12
+2015,NOVEMBER,data\raw\groupD\seki_downloads\2015\TABEL8_1_NOVEMBER_2015.pdf,pdf,ok,25,,2026-07-09T09:33:12
+2015,DESEMBER,data\raw\groupD\seki_downloads\2015\TABEL8_1_DESEMBER_2015.pdf,pdf,ok,25,,2026-07-09T09:33:13
+2016,JANUARI,data\raw\groupD\seki_downloads\2016\TABEL8_1_JANUARI_2016.pdf,pdf,ok,25,,2026-07-09T09:33:13
+2016,FEBRUARI,data\raw\groupD\seki_downloads\2016\TABEL8_1_FEBRUARI_2016.pdf,pdf,ok,25,,2026-07-09T09:33:14
+2016,MARET,data\raw\groupD\seki_downloads\2016\TABEL8_1_MARET_2016.pdf,pdf,ok,25,,2026-07-09T09:33:14
+2016,APRIL,data\raw\groupD\seki_downloads\2016\TABEL8_1_APRIL_2016.pdf,pdf,ok,25,,2026-07-09T09:33:15
+2016,MEI,data\raw\groupD\seki_downloads\2016\TABEL8_1_MEI_2016.pdf,pdf,ok,25,,2026-07-09T09:33:15
+2016,JUNI,data\raw\groupD\seki_downloads\2016\TABEL8_1_JUNI_2016.pdf,pdf,ok,25,,2026-07-09T09:33:15
+2016,JULI,data\raw\groupD\seki_downloads\2016\TABEL8_1_JULI_2016.pdf,pdf,ok,25,,2026-07-09T09:33:16
+2016,AGUSTUS,data\raw\groupD\seki_downloads\2016\TABEL8_1_AGUSTUS_2016.pdf,pdf,ok,25,,2026-07-09T09:33:16
+2016,SEPTEMBER,data\raw\groupD\seki_downloads\2016\TABEL8_1_SEPTEMBER_2016.pdf,pdf,ok,25,,2026-07-09T09:33:16
+2016,OKTOBER,data\raw\groupD\seki_downloads\2016\TABEL8_1_OKTOBER_2016.pdf,pdf,ok,25,,2026-07-09T09:33:17
+2016,NOVEMBER,data\raw\groupD\seki_downloads\2016\TABEL8_1_NOVEMBER_2016.pdf,pdf,ok,25,,2026-07-09T09:33:17
+2016,DESEMBER,data\raw\groupD\seki_downloads\2016\TABEL8_1_DESEMBER_2016.pdf,pdf,ok,25,,2026-07-09T09:33:17
+2017,JANUARI,data\raw\groupD\seki_downloads\2017\TABEL8_1_JANUARI_2017.pdf,pdf,ok,25,,2026-07-09T09:33:18
+2017,FEBRUARI,data\raw\groupD\seki_downloads\2017\TABEL8_1_FEBRUARI_2017.pdf,pdf,ok,25,,2026-07-09T09:33:18
+2017,MARET,data\raw\groupD\seki_downloads\2017\TABEL8_1_MARET_2017.pdf,pdf,ok,25,,2026-07-09T09:33:18
+2017,APRIL,data\raw\groupD\seki_downloads\2017\TABEL8_1_APRIL_2017.pdf,pdf,ok,25,,2026-07-09T09:33:19
+2017,MEI,data\raw\groupD\seki_downloads\2017\TABEL8_1_MEI_2017.pdf,pdf,ok,25,,2026-07-09T09:33:19
+2017,JUNI,data\raw\groupD\seki_downloads\2017\TABEL8_1_JUNI_2017.pdf,pdf,ok,25,,2026-07-09T09:33:19
+2017,JULI,data\raw\groupD\seki_downloads\2017\TABEL8_1_JULI_2017.pdf,pdf,ok,25,,2026-07-09T09:33:20
+2017,AGUSTUS,data\raw\groupD\seki_downloads\2017\TABEL8_1_AGUSTUS_2017.pdf,pdf,ok,25,,2026-07-09T09:33:20
+2017,SEPTEMBER,data\raw\groupD\seki_downloads\2017\TABEL8_1_SEPTEMBER_2017.pdf,pdf,ok,25,,2026-07-09T09:33:20
+2017,OKTOBER,data\raw\groupD\seki_downloads\2017\TABEL8_1_OKTOBER_2017.pdf,pdf,ok,25,,2026-07-09T09:33:21
+2017,NOVEMBER,data\raw\groupD\seki_downloads\2017\TABEL8_1_NOVEMBER_2017.pdf,pdf,ok,25,,2026-07-09T09:33:21
+2017,DESEMBER,data\raw\groupD\seki_downloads\2017\TABEL8_1_DESEMBER_2017.pdf,pdf,ok,25,,2026-07-09T09:33:21
+2018,JANUARI,data\raw\groupD\seki_downloads\2018\TABEL8_1_JANUARI_2018.pdf,pdf,ok,25,,2026-07-09T09:33:22
+2018,FEBRUARI,data\raw\groupD\seki_downloads\2018\TABEL8_1_FEBRUARI_2018.pdf,pdf,ok,25,,2026-07-09T09:33:22
+2018,MARET,data\raw\groupD\seki_downloads\2018\TABEL8_1_MARET_2018.pdf,pdf,ok,13,,2026-07-09T09:33:22
+2018,APRIL,data\raw\groupD\seki_downloads\2018\TABEL8_1_APRIL_2018.xls,xls,ok,208,,2026-07-09T09:33:22
+2018,MEI,data\raw\groupD\seki_downloads\2018\TABEL8_1_MEI_2018.xls,xls,ok,209,,2026-07-09T09:33:22
+2018,JUNI,data\raw\groupD\seki_downloads\2018\TABEL8_1_JUNI_2018.xlsx,xlsx,ok,206,,2026-07-09T09:33:22
+2018,JULI,data\raw\groupD\seki_downloads\2018\TABEL8_1_JULI_2018.xlsx,xlsx,ok,211,,2026-07-09T09:33:22
+2018,AGUSTUS,data\raw\groupD\seki_downloads\2018\TABEL8_1_AGUSTUS_2018.xlsx,xlsx,ok,212,,2026-07-09T09:33:23
+2018,SEPTEMBER,data\raw\groupD\seki_downloads\2018\TABEL8_1_SEPTEMBER_2018.xlsx,xlsx,ok,213,,2026-07-09T09:33:23
+2018,OKTOBER,data\raw\groupD\seki_downloads\2018\TABEL8_1_OKTOBER_2018.xlsx,xlsx,ok,214,,2026-07-09T09:33:23
+2018,NOVEMBER,data\raw\groupD\seki_downloads\2018\TABEL8_1_NOVEMBER_2018.xls,xls,ok,215,,2026-07-09T09:33:23
+2018,DESEMBER,data\raw\groupD\seki_downloads\2018\TABEL8_1_DESEMBER_2018.xls,xls,ok,216,,2026-07-09T09:33:23
+2019,JANUARI,data\raw\groupD\seki_downloads\2019\TABEL8_1_JANUARI_2019.xls,xls,ok,217,,2026-07-09T09:33:23
+2019,FEBRUARI,data\raw\groupD\seki_downloads\2019\TABEL8_1_FEBRUARI_2019.xls,xls,ok,218,,2026-07-09T09:33:23
+2019,MARET,data\raw\groupD\seki_downloads\2019\TABEL8_1_MARET_2019.xls,xls,ok,219,,2026-07-09T09:33:23
+2019,APRIL,data\raw\groupD\seki_downloads\2019\TABEL8_1_APRIL_2019.xls,xls,ok,220,,2026-07-09T09:33:23
+2019,MEI,data\raw\groupD\seki_downloads\2019\TABEL8_1_MEI_2019.xls,xls,ok,221,,2026-07-09T09:33:23
+2019,JUNI,data\raw\groupD\seki_downloads\2019\TABEL8_1_JUNI_2019.xls,xls,ok,222,,2026-07-09T09:33:23
+2019,JULI,data\raw\groupD\seki_downloads\2019\TABEL8_1_JULI_2019.xls,xls,ok,223,,2026-07-09T09:33:23
+2019,AGUSTUS,data\raw\groupD\seki_downloads\2019\TABEL8_1_AGUSTUS_2019.xls,xls,ok,224,,2026-07-09T09:33:23
+2019,SEPTEMBER,data\raw\groupD\seki_downloads\2019\TABEL8_1_SEPTEMBER_2019.xls,xls,ok,225,,2026-07-09T09:33:23
+2019,OKTOBER,data\raw\groupD\seki_downloads\2019\TABEL8_1_OKTOBER_2019.xls,xls,ok,226,,2026-07-09T09:33:23
+2019,NOVEMBER,data\raw\groupD\seki_downloads\2019\TABEL8_1_NOVEMBER_2019.xls,xls,ok,227,,2026-07-09T09:33:23
+2019,DESEMBER,data\raw\groupD\seki_downloads\2019\TABEL8_1_DESEMBER_2019.xls,xls,ok,228,,2026-07-09T09:33:23
+2020,JANUARI,data\raw\groupD\seki_downloads\2020\TABEL8_1_JANUARI_2020.pdf,pdf,ok,1,,2026-07-09T09:33:23
+2020,FEBRUARI,data\raw\groupD\seki_downloads\2020\TABEL8_1_FEBRUARI_2020.xls,xls,ok,230,,2026-07-09T09:33:23
+2020,MARET,data\raw\groupD\seki_downloads\2020\TABEL8_1_MARET_2020.xls,xls,ok,231,,2026-07-09T09:33:23
+2020,APRIL,data\raw\groupD\seki_downloads\2020\TABEL8_1_APRIL_2020.xls,xls,ok,232,,2026-07-09T09:33:24
+2020,MEI,data\raw\groupD\seki_downloads\2020\TABEL8_1_MEI_2020.xls,xls,ok,233,,2026-07-09T09:33:24
+2020,JUNI,data\raw\groupD\seki_downloads\2020\TABEL8_1_JUNI_2020.xls,xls,ok,234,,2026-07-09T09:33:24
+2020,JULI,data\raw\groupD\seki_downloads\2020\TABEL8_1_JULI_2020.xls,xls,ok,235,,2026-07-09T09:33:24
+2020,AGUSTUS,data\raw\groupD\seki_downloads\2020\TABEL8_1_AGUSTUS_2020.xls,xls,ok,236,,2026-07-09T09:33:24
+2020,SEPTEMBER,data\raw\groupD\seki_downloads\2020\TABEL8_1_SEPTEMBER_2020.xls,xls,ok,237,,2026-07-09T09:33:24
+2020,OKTOBER,data\raw\groupD\seki_downloads\2020\TABEL8_1_OKTOBER_2020.xls,xls,ok,238,,2026-07-09T09:33:24
+2020,NOVEMBER,data\raw\groupD\seki_downloads\2020\TABEL8_1_NOVEMBER_2020.xls,xls,ok,239,,2026-07-09T09:33:24
+2020,DESEMBER,data\raw\groupD\seki_downloads\2020\TABEL8_1_DESEMBER_2020.xls,xls,ok,240,,2026-07-09T09:33:24
+2021,JANUARI,data\raw\groupD\seki_downloads\2021\TABEL8_1_JANUARI_2021.xls,xls,ok,241,,2026-07-09T09:33:24
+2021,FEBRUARI,data\raw\groupD\seki_downloads\2021\TABEL8_1_FEBRUARI_2021.xls,xls,ok,242,,2026-07-09T09:33:24
+2021,MARET,data\raw\groupD\seki_downloads\2021\TABEL8_1_MARET_2021.xls,xls,ok,243,,2026-07-09T09:33:24
+2021,APRIL,data\raw\groupD\seki_downloads\2021\TABEL8_1_APRIL_2021.xls,xls,ok,244,,2026-07-09T09:33:24
+2021,MEI,data\raw\groupD\seki_downloads\2021\TABEL8_1_MEI_2021.xls,xls,ok,240,,2026-07-09T09:33:24
+2021,JUNI,data\raw\groupD\seki_downloads\2021\TABEL8_1_JUNI_2021.xls,xls,ok,240,,2026-07-09T09:33:24
+2021,JULI,data\raw\groupD\seki_downloads\2021\TABEL8_1_JULI_2021.xls,xls,ok,247,,2026-07-09T09:33:24
+2021,AGUSTUS,data\raw\groupD\seki_downloads\2021\TABEL8_1_AGUSTUS_2021.xls,xls,ok,248,,2026-07-09T09:33:24
+2021,SEPTEMBER,data\raw\groupD\seki_downloads\2021\TABEL8_1_SEPTEMBER_2021.xls,xls,ok,249,,2026-07-09T09:33:24
+2021,OKTOBER,data\raw\groupD\seki_downloads\2021\TABEL8_1_OKTOBER_2021.xls,xls,ok,250,,2026-07-09T09:33:24
+2021,NOVEMBER,data\raw\groupD\seki_downloads\2021\TABEL8_1_NOVEMBER_2021.xls,xls,ok,251,,2026-07-09T09:33:24
+2021,DESEMBER,data\raw\groupD\seki_downloads\2021\TABEL8_1_DESEMBER_2021.xls,xls,ok,252,,2026-07-09T09:33:24
+2022,JANUARI,data\raw\groupD\seki_downloads\2022\TABEL8_1_JANUARI_2022.xls,xls,ok,253,,2026-07-09T09:33:24
+2022,FEBRUARI,data\raw\groupD\seki_downloads\2022\TABEL8_1_FEBRUARI_2022.xls,xls,ok,254,,2026-07-09T09:33:24
+2022,MARET,data\raw\groupD\seki_downloads\2022\TABEL8_1_MARET_2022.xls,xls,ok,255,,2026-07-09T09:33:24
+2022,APRIL,data\raw\groupD\seki_downloads\2022\TABEL8_1_APRIL_2022.xls,xls,ok,256,,2026-07-09T09:33:24
+2022,MEI,data\raw\groupD\seki_downloads\2022\TABEL8_1_MEI_2022.xls,xls,ok,257,,2026-07-09T09:33:24
+2022,JUNI,data\raw\groupD\seki_downloads\2022\TABEL8_1_JUNI_2022.xls,xls,ok,258,,2026-07-09T09:33:24
+2022,JULI,data\raw\groupD\seki_downloads\2022\TABEL8_1_JULI_2022.xls,xls,ok,259,,2026-07-09T09:33:24
+2022,AGUSTUS,data\raw\groupD\seki_downloads\2022\TABEL8_1_AGUSTUS_2022.xls,xls,ok,260,,2026-07-09T09:33:24
+2022,SEPTEMBER,data\raw\groupD\seki_downloads\2022\TABEL8_1_SEPTEMBER_2022.xls,xls,ok,261,,2026-07-09T09:33:25
+2022,OKTOBER,data\raw\groupD\seki_downloads\2022\TABEL8_1_OKTOBER_2022.xls,xls,ok,262,,2026-07-09T09:33:25
+2022,NOVEMBER,data\raw\groupD\seki_downloads\2022\TABEL8_1_NOVEMBER_2022.xls,xls,ok,263,,2026-07-09T09:33:25
+2022,DESEMBER,data\raw\groupD\seki_downloads\2022\TABEL8_1_DESEMBER_2022.xls,xls,ok,264,,2026-07-09T09:33:25
+2023,JANUARI,data\raw\groupD\seki_downloads\2023\TABEL8_1_JANUARI_2023.xls,xls,ok,265,,2026-07-09T09:33:25
+2023,FEBRUARI,data\raw\groupD\seki_downloads\2023\TABEL8_1_FEBRUARI_2023.xls,xls,ok,266,,2026-07-09T09:33:25
+2023,MARET,data\raw\groupD\seki_downloads\2023\TABEL8_1_MARET_2023.xls,xls,ok,267,,2026-07-09T09:33:25
+2023,APRIL,data\raw\groupD\seki_downloads\2023\TABEL8_1_APRIL_2023.xls,xls,ok,268,,2026-07-09T09:33:25
+2023,MEI,data\raw\groupD\seki_downloads\2023\TABEL8_1_MEI_2023.xls,xls,ok,269,,2026-07-09T09:33:25
+2023,JUNI,data\raw\groupD\seki_downloads\2023\TABEL8_1_JUNI_2023.xls,xls,ok,270,,2026-07-09T09:33:25
+2023,JULI,data\raw\groupD\seki_downloads\2023\TABEL8_1_JULI_2023.xls,xls,ok,271,,2026-07-09T09:33:25
+2023,AGUSTUS,data\raw\groupD\seki_downloads\2023\TABEL8_1_AGUSTUS_2023.xls,xls,ok,272,,2026-07-09T09:33:25
+2023,SEPTEMBER,data\raw\groupD\seki_downloads\2023\TABEL8_1_SEPTEMBER_2023.xls,xls,ok,273,,2026-07-09T09:33:25
+2023,OKTOBER,data\raw\groupD\seki_downloads\2023\TABEL8_1_OKTOBER_2023.xls,xls,ok,274,,2026-07-09T09:33:25
+2023,NOVEMBER,data\raw\groupD\seki_downloads\2023\TABEL8_1_NOVEMBER_2023.xls,xls,ok,275,,2026-07-09T09:33:25
+2023,DESEMBER,data\raw\groupD\seki_downloads\2023\TABEL8_1_DESEMBER_2023.xls,xls,ok,276,,2026-07-09T09:33:25
+2024,JANUARI,data\raw\groupD\seki_downloads\2024\TABEL8_1_JANUARI_2024.xls,xls,ok,277,,2026-07-09T09:33:25
+2024,FEBRUARI,data\raw\groupD\seki_downloads\2024\TABEL8_1_FEBRUARI_2024.xls,xls,ok,278,,2026-07-09T09:33:25
+2024,MARET,data\raw\groupD\seki_downloads\2024\TABEL8_1_MARET_2024.xls,xls,ok,279,,2026-07-09T09:33:25
+2024,APRIL,data\raw\groupD\seki_downloads\2024\TABEL8_1_APRIL_2024.xls,xls,ok,280,,2026-07-09T09:33:25
+2024,MEI,data\raw\groupD\seki_downloads\2024\TABEL8_1_MEI_2024.xls,xls,ok,281,,2026-07-09T09:33:25
+2024,JUNI,data\raw\groupD\seki_downloads\2024\TABEL8_1_JUNI_2024.xls,xls,ok,282,,2026-07-09T09:33:25
+2024,JULI,data\raw\groupD\seki_downloads\2024\TABEL8_1_JULI_2024.xls,xls,ok,283,,2026-07-09T09:33:25
+2024,AGUSTUS,data\raw\groupD\seki_downloads\2024\TABEL8_1_AGUSTUS_2024.xls,xls,ok,284,,2026-07-09T09:33:25
+2024,SEPTEMBER,data\raw\groupD\seki_downloads\2024\TABEL8_1_SEPTEMBER_2024.xls,xls,ok,285,,2026-07-09T09:33:25
+2024,OKTOBER,data\raw\groupD\seki_downloads\2024\TABEL8_1_OKTOBER_2024.xls,xls,ok,286,,2026-07-09T09:33:26
+2024,NOVEMBER,data\raw\groupD\seki_downloads\2024\TABEL8_1_NOVEMBER_2024.xls,xls,ok,287,,2026-07-09T09:33:26
+2024,DESEMBER,data\raw\groupD\seki_downloads\2024\TABEL8_1_DESEMBER_2024.xls,xls,ok,288,,2026-07-09T09:33:26
+2025,JANUARI,data\raw\groupD\seki_downloads\2025\TABEL8_1_JANUARI_2025.xls,xls,ok,289,,2026-07-09T09:33:26
+2025,FEBRUARI,data\raw\groupD\seki_downloads\2025\TABEL8_1_FEBRUARI_2025.xls,xls,ok,290,,2026-07-09T09:33:26
+2025,MARET,data\raw\groupD\seki_downloads\2025\TABEL8_1_MARET_2025.xls,xls,ok,291,,2026-07-09T09:33:26
+2025,APRIL,data\raw\groupD\seki_downloads\2025\TABEL8_1_APRIL_2025.xls,xls,ok,292,,2026-07-09T09:33:26
+2025,MEI,data\raw\groupD\seki_downloads\2025\TABEL8_1_MEI_2025.xls,xls,ok,293,,2026-07-09T09:33:26
+2025,JUNI,data\raw\groupD\seki_downloads\2025\TABEL8_1_JUNI_2025.xls,xls,ok,294,,2026-07-09T09:33:26
+2025,JULI,data\raw\groupD\seki_downloads\2025\TABEL8_1_JULI_2025.xls,xls,ok,295,,2026-07-09T09:33:26
+2025,AGUSTUS,data\raw\groupD\seki_downloads\2025\TABEL8_1_AGUSTUS_2025.xls,xls,ok,296,,2026-07-09T09:33:26
+2025,SEPTEMBER,data\raw\groupD\seki_downloads\2025\TABEL8_1_SEPTEMBER_2025.xls,xls,ok,297,,2026-07-09T09:33:26
+2025,OKTOBER,data\raw\groupD\seki_downloads\2025\TABEL8_1_OKTOBER_2025.xls,xls,ok,298,,2026-07-09T09:33:26
+2025,NOVEMBER,data\raw\groupD\seki_downloads\2025\TABEL8_1_NOVEMBER_2025.xls,xls,ok,299,,2026-07-09T09:33:26
+2025,DESEMBER,data\raw\groupD\seki_downloads\2025\TABEL8_1_DESEMBER_2025.xls,xls,ok,300,,2026-07-09T09:33:26
+2026,JANUARI,data\raw\groupD\seki_downloads\2026\TABEL8_1_JANUARI_2026.xls,xls,ok,301,,2026-07-09T09:33:26
+2026,FEBRUARI,data\raw\groupD\seki_downloads\2026\TABEL8_1_FEBRUARI_2026.xls,xls,ok,302,,2026-07-09T09:33:26
+2026,MARET,data\raw\groupD\seki_downloads\2026\TABEL8_1_MARET_2026.xls,xls,ok,303,,2026-07-09T09:33:26
+2026,APRIL,data\raw\groupD\seki_downloads\2026\TABEL8_1_APRIL_2026.xls,xls,ok,304,,2026-07-09T09:33:26
+2026,MEI,data\raw\groupD\seki_downloads\2026\TABEL8_1_MEI_2026.xls,xls,ok,305,,2026-07-09T09:33:26
