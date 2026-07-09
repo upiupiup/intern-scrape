@@ -960,21 +960,6 @@ def parse_pdf_file(path, edition_bulan, edition_tahun):
 def run_pipeline(
     raw_dir=OUTPUT_DIR, processed_dir=PROCESSED_DIR, include_secondary_sheets=True
 ):
-    """
-    Baca semua TABEL8_1 yang sudah ada di raw_dir, ekstrak UMUM > Tahun Ke
-    Tahun, gabungkan jadi satu tabel bulanan bersih, tulis ke processed_dir.
-
-    Aturan prioritas kalau satu periode (mis. 2015-06) muncul di lebih dari
-    satu file:
-      rank 1 (tertinggi) - sheet UTAMA ('8.1'/terbaru) di file xls/xlsx
-      rank 2             - PDF (TABEL8_1_<BULAN>_<TAHUN>.pdf)
-      rank 3 (terendah)  - sheet HISTORIS ('Th <awal>-<akhir>') di xls/xlsx,
-                            dipakai HANYA untuk mengisi periode yang belum
-                            kena rank 1/2 sama sekali (gap-filler, bukan
-                            override) -- lihat parameter include_secondary_sheets
-      Dalam rank yang sama, edisi (bulan+tahun) yang lebih baru menang,
-      karena publikasi lebih baru biasanya sudah direvisi.
-    """
     os.makedirs(processed_dir, exist_ok=True)
     processed_csv_path = os.path.join(processed_dir, f"{PROCESSED_BASENAME}.csv")
     pipeline_log_path = os.path.join(processed_dir, f"{PROCESSED_BASENAME}_log.csv")
