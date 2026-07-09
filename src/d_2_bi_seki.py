@@ -218,24 +218,24 @@ def build_page_url_candidates(bulan, tahun):
         f"{SEKI_BASE}{bulan_lower}-{tahun}.aspx",
         f"{SEKI_BASE_LEGACY}SEKI-{bulan}-{tahun}.aspx",
         f"{SEKI_BASE}seki_{bulan_num:02d}{tahun_2digit}.aspx",
-        f"{SEKI_BASE}seki_{mm}{yy}.aspx",  # seki_0812.aspx
-        f"{SEKI_BASE}seki_{mm}{yy}-1.aspx",  # seki_1108-1.aspx
+        f"{SEKI_BASE}seki_{mm}{yy}.aspx",
+        f"{SEKI_BASE}seki_{mm}{yy}-1.aspx",
         f"{SEKI_BASE}seki_{mm}{yy}-2.aspx",
-        f"{SEKI_BASE}seki_{mm}{yy}_rev.aspx",  # seki_1106_rev.aspx
-        f"{SEKI_BASE}seki-{tahun}{mm}.aspx",  # seki-201301.aspx (urutan YYYYMM, kebalik)
-        f"{SEKI_BASE}SEKI-{bulan}{tahun}-tahap1.aspx",  # SEKI-APRIL2014-tahap1.aspx
-        f"{SEKI_BASE}SEKI-{bulan_title}{tahun}-tahap1.aspx",  # SEKI-Oktober2014-tahap1.aspx
-        f"{SEKI_BASE}SEKI_{bulan}_{tahun}.aspx",  # SEKI_JUNI_2015.aspx (underscore, bukan strip)
-        f"{SEKI_BASE}SEKI---{bulan_title}-{tahun}.aspx",  # SEKI---Oktober-2015.aspx (strip 3x, ini nyata)
-        f"{SEKI_BASE}SEKI-{BULAN_EN[bulan]}-{tahun}.aspx",  # SEKI-February-2015.aspx (!) nama bulan INGGRIS
-        f"{SEKI_BASE}{bulan_lower}{yy}.aspx",  # oktober09.aspx, september09.aspx
-        f"{SEKI_BASE}{bulan_abbr3.lower()}-{yy}.aspx",  # jan-08.aspx
-        f"{SEKI_BASE}{bulan_lower}-{yy}.aspx",  # juni-07.aspx (juni ga disingkat)
-        f"{SEKI_BASE}seki%20{bulan_abbr3.lower()}%20{yy}.aspx",  # seki okt 05.aspx
-        f"{SEKI_BASE}seki%20{mm}{yy}.aspx",  # seki 0705.aspx = Juli 2005 (mm=07)
-        f"{SEKI_BASE}{bulan_title}%20-%20{tahun}.aspx",  # Juni - 2004.aspx
+        f"{SEKI_BASE}seki_{mm}{yy}_rev.aspx",
+        f"{SEKI_BASE}seki-{tahun}{mm}.aspx",
+        f"{SEKI_BASE}SEKI-{bulan}{tahun}-tahap1.aspx",
+        f"{SEKI_BASE}SEKI-{bulan_title}{tahun}-tahap1.aspx",
+        f"{SEKI_BASE}SEKI_{bulan}_{tahun}.aspx",
+        f"{SEKI_BASE}SEKI---{bulan_title}-{tahun}.aspx",
+        f"{SEKI_BASE}SEKI-{BULAN_EN[bulan]}-{tahun}.aspx",
+        f"{SEKI_BASE}{bulan_lower}{yy}.aspx",
+        f"{SEKI_BASE}{bulan_abbr3.lower()}-{yy}.aspx",
+        f"{SEKI_BASE}{bulan_lower}-{yy}.aspx",
+        f"{SEKI_BASE}seki%20{bulan_abbr3.lower()}%20{yy}.aspx",
+        f"{SEKI_BASE}seki%20{mm}{yy}.aspx",
+        f"{SEKI_BASE}{bulan_title}%20-%20{tahun}.aspx",
         f"{SEKI_BASE}SEKI%20{bulan_abbr3}%20{tahun}.aspx",
-        f"{SEKI_BASE}{bulan_lower}%20{tahun}.aspx",  # SEKI Apr 2004.aspx (3 huruf murni, bukan "April")
+        f"{SEKI_BASE}{bulan_lower}%20{tahun}.aspx",
     ]
 
     seen = set()
@@ -700,11 +700,6 @@ def parse_umum_yoy_from_sheet(sheet):
         last_month = m
         if indeks_row is not None:
             idx_val = sheet.cell_value(indeks_row, c)
-            # Nilai indeks IHK normal berada di kisaran ratusan. Beberapa
-            # sheet historis BI berisi duplikat untuk layout/chart dengan
-            # angka diskalakan (contoh April 2011: indeks 208.04 menjadi
-            # 3120.6, YoY 4.45 menjadi 66.75). Kolom seperti itu harus
-            # dilewati agar tidak mengisi seri YoY dengan angka artefak.
             if not (isinstance(idx_val, (int, float)) and 0 < idx_val < 1000):
                 continue
         val = sheet.cell_value(yoy_row, c)
